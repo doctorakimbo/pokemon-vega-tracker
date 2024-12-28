@@ -10,6 +10,15 @@
           "dock": "top",
           "tabs": [
             {
+              "title": "Tohoak",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "tohoak"
+                ]
+              }
+            },
+            {
               "title": "Kanto & Sevii Islands",
               "content": {
                 "type": "map",

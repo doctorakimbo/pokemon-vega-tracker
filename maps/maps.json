@@ -1,5 +1,11 @@
 [
   {
+    "name": "tohoak",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/tohoak.png"
+  },
+  {
     "name": "kanto_sevii",
     "location_size": 6,
     "location_border_thickness": 1,
