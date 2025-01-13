@@ -1,18 +1,18 @@
 TAB_MAPPING = {
-    [768] = { -- Pallet Town
-        [0] = {"Cities", "Pallet Town"}
+    [768] = { -- Porcelia Town
+        [0] = {"Cities", "Porcelia Town"}
     },
     [1024] = { -- Player's House 1F
-        [0] = {"Cities", "Pallet Town"}
+        [0] = {"Cities", "Porcelia Town"}
     },
     [1025] = { -- Player's House 2F
-        [0] = {"Cities", "Pallet Town"}
+        [0] = {"Cities", "Porcelia Town"}
     },
-    [1026] = { -- Rival's House
-        [0] = {"Cities", "Pallet Town"}
+    [1026] = { -- Porcelia House
+        [0] = {"Cities", "Porcelia Town"}
     },
-    [1027] = { -- Oak's Lab
-        [0] = {"Cities", "Pallet Town"}
+    [1027] = { -- Holly's Lab
+        [0] = {"Cities", "Porcelia Town"}
     },
     [769] = { -- Viridian City
         [0] = {"Cities", "Viridian City"}

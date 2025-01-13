@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Porcelia Town",
+    "children": [
+      {
+        "name": "Player's House",
+        "sections": [
+          {
+            "ref": "Cities/Porcelia Town/Unlock Fly Destination"
+          },
+          {
+            "ref": "Cities/Porcelia Town/Mom's Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "porcelia_town",
+            "x": 89,
+            "y": 529
+          }
+        ]
+      },
+      {
+        "name": "Holly's Lab",
+        "sections": [
+          {
+            "ref": "Cities/Porcelia Town/Rival Reward",
+            "name": "Rival Reward"
+          },
+          {
+            "ref": "Cities/Porcelia Town/Gift from Aide (Postgame)",
+            "name": "Gift from Aide (Postgame)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "porcelia_town",
+            "x": 349,
+            "y": 329
+          }
+        ]
+      }
+    ]
+  }
+]

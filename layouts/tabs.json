@@ -170,6 +170,15 @@
                   "indigo_plateau"
                 ]
               }
+            },
+            {
+              "title": "Porcelia Town",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "porcelia_town"
+                ]
+              }
             }
           ]
         }

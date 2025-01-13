@@ -5,7 +5,7 @@
     "chest_opened_img": "images/locations/pokeball_bw.png",
     "children": [
       {
-        "name": "Pallet Town",
+        "name": "Porcelia Town",
         "sections": [
           {
             "name": "Unlock Fly Destination",
@@ -15,16 +15,10 @@
               "fly_destination_unlocks_on"
             ]
           },
-          {
-            "name": "Oak's Lab Sign's Info (Oak 1)",
-            "chest_unopened_img": "images/locations/sign_info.png",
-            "chest_opened_img": "images/locations/sign_info_bw.png",
-            "access_rules": [
-              "$fame"
-            ],
-            "visibility_rules": [
-              "famesanity_on"
-            ]
+		  {
+            "name": "Mom's Gift",
+            "chest_unopened_img": "images/locations/mom_town_map.png",
+            "chest_opened_img": "images/locations/mom_town_map_bw.png"
           },
           {
             "name": "Rival Reward",
@@ -35,91 +29,19 @@
             ]
           },
           {
-            "name": "Deliver Oak's Parcel (Event)",
-            "hosted_item": "deliver_oaks_parcel_hosted",
+            "name": "Gift from Aide (Postgame)",
+            "chest_unopened_img": "images/locations/worker_female_forecast_map.png",
+            "chest_opened_img": "images/locations/worker_female_forecast_map_bw.png",
             "access_rules": [
-              "oaks_parcel"
-            ]
-          },
-          {
-            "name": "Oak's Gift (Deliver Parcel)",
-            "chest_unopened_img": "images/locations/oak_pokeball.png",
-            "chest_opened_img": "images/locations/oak_pokeball_bw.png",
-            "access_rules": [
-              "oaks_parcel"
-            ]
-          },
-          {
-            "name": "Oak's Info (Oak 2)",
-            "chest_unopened_img": "images/locations/oak_info.png",
-            "chest_opened_img": "images/locations/oak_info_bw.png",
-            "access_rules": [
-              "oaks_parcel,$fame"
-            ],
-            "visibility_rules": [
-              "famesanity_on"
-            ]
-          },
-          {
-            "name": "Oak's Gift (After Route 22 Rival)",
-            "chest_unopened_img": "images/locations/oak_pokeball.png",
-            "chest_opened_img": "images/locations/oak_pokeball_bw.png",
-            "access_rules": [
-              "deliver_oaks_parcel,defeat_route_22_rival"
-            ]
-          },
-          {
-            "name": "Oak's Aide's Info (Oak 3)",
-            "chest_unopened_img": "images/locations/worker_female_info.png",
-            "chest_opened_img": "images/locations/worker_female_info_bw.png",
-            "access_rules": [
-              "$fame"
-            ],
-            "visibility_rules": [
-              "famesanity_on"
-            ]
-          },
-          {
-            "name": "Oak's Aide's Info (Daisy 1)",
-            "chest_unopened_img": "images/locations/scientist_info.png",
-            "chest_opened_img": "images/locations/scientist_info_bw.png",
-            "access_rules": [
-              "$fame,$post_game_fame"
-            ],
-            "visibility_rules": [
-              "famesanity_on"
-            ]
-          },
-          {
-            "name": "Oak's Aide's Info (Oak 6)",
-            "chest_unopened_img": "images/locations/scientist_info.png",
-            "chest_opened_img": "images/locations/scientist_info_bw.png",
-            "access_rules": [
-              "$fame,$post_game_fame"
-            ],
-            "visibility_rules": [
-              "famesanity_on"
-            ]
-          },
-          {
-            "name": "Daisy's Gift",
-            "chest_unopened_img": "images/locations/daisy_town_map.png",
-            "chest_opened_img": "images/locations/daisy_town_map_bw.png",
-            "access_rules": [
-              "deliver_oaks_parcel"
+              "TODO"
             ]
           }
         ],
         "map_locations": [
           {
-            "map": "kanto_sevii",
-            "x": 44,
-            "y": 108
-          },
-          {
-            "map": "kanto",
-            "x": 44,
-            "y": 108
+            "map": "tohoak",
+            "x": 73,
+            "y": 84
           }
         ]
       },

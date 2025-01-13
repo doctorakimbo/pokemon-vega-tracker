@@ -377,6 +377,12 @@
     "codes": "pokedex"
   },
   {
+    "name": "Porcelia Town Fly Destination",
+    "type": "toggle",
+    "img": "images/items/fly_porcelia.png",
+    "codes": "fly_porcelia"
+  },
+  {
     "name": "Rainbow Badge",
     "type": "toggle",
     "img": "images/items/rainbow_badge.png",
