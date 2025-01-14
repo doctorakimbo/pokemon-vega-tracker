@@ -190,6 +190,15 @@
           "dock": "top",
           "tabs": [
             {
+              "title": "Route 501",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route_501"
+                ]
+              }
+            },
+            {
               "title": "Route 1",
               "content": {
                 "type": "map",

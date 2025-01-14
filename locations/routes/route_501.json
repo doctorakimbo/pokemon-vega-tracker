@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Route 501",
+    "children": [
+      {
+        "name": "Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 501/Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_501",
+            "x": 530,
+            "y": 368
+          }
+        ]
+      },
+	  {
+        "name": "Woman in House",
+        "sections": [
+          {
+            "ref": "Routes/Route 501/Gift from Woman in House",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_501",
+            "x": 389,
+            "y": 127
+          }
+        ]
+      },
+      {
+        "name": "Youngster Ben",
+        "sections": [
+          {
+            "ref": "Routes/Route 501/Youngster Ben Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_501",
+            "x": 550,
+            "y": 148
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 501/Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_501",
+            "x": 609,
+            "y": 168
+          }
+        ]
+      },
+      {
+        "name": "Lass Crissy",
+        "sections": [
+          {
+            "ref": "Routes/Route 501/Lass Crissy Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_501",
+            "x": 770,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "School Kid Rich",
+        "sections": [
+          {
+            "ref": "Routes/Route 501/School Kid Rich Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_501",
+            "x": 730,
+            "y": 387
+          }
+        ]
+      },
+      {
+        "name": "School Kid Karen",
+        "sections": [
+          {
+            "ref": "Routes/Route 501/School Kid Karen Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_501",
+            "x": 1090,
+            "y": 208
+          }
+        ]
+      }
+    ]
+  }
+]

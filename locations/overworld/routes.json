@@ -5,6 +5,70 @@
     "chest_opened_img": "images/locations/pokeball_bw.png",
     "children": [
       {
+        "name": "Route 501",
+        "sections": [
+          {
+            "name": "Item"
+          },
+          {
+            "name": "Gift from Woman in House",
+            "chest_unopened_img": "images/locations/beauty_poke_ball.png",
+            "chest_opened_img": "images/locations/beauty_poke_ball_bw.png"
+          },
+          {
+            "name": "Youngster Ben Reward",
+            "chest_unopened_img": "images/locations/youngster.png",
+            "chest_opened_img": "images/locations/youngster_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Hidden Item",
+            "chest_unopened_img": "images/locations/hidden_item.png",
+            "chest_opened_img": "images/locations/hidden_item_bw.png",
+            "access_rules": [
+              "^$hidden"
+            ],
+            "visibility_rules": [
+              "hidden_nonrecurring"
+            ]
+          },
+          {
+            "name": "Lass Crissy Reward",
+            "chest_unopened_img": "images/locations/lass.png",
+            "chest_opened_img": "images/locations/lass_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "School Kid Rich Reward",
+            "chest_unopened_img": "images/locations/youngster.png",
+            "chest_opened_img": "images/locations/youngster_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "School Kid Karen Reward",
+            "chest_unopened_img": "images/locations/little_girl.png",
+            "chest_opened_img": "images/locations/little_girl_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 88,
+            "y": 84,
+            "size": 4
+          }
+        ]
+      },
+      {
         "name": "Route 1",
         "sections": [
           {

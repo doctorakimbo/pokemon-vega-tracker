@@ -1027,8 +1027,11 @@ TAB_MAPPING = {
     [570] = { -- Birth Island Harbor
         [0] = {"Islands", "Birth Island", "Exterior"}
     },
-    [787] = { -- Route 1
-        [0] = {"Routes", "Route 1"}
+    [787] = { -- Route 501
+        [0] = {"Routes", "Route 501"}
+    },
+    [8194] = { -- Route 501 House
+        [0] = {"Routes", "Route 501"}
     },
     [788] = { -- Route 2
         [0] = {"Routes", "Route 2", "North"},
