@@ -199,6 +199,15 @@
               }
             },
             {
+              "title": "Route 502",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route_502"
+                ]
+              }
+            },
+            {
               "title": "Route 1",
               "content": {
                 "type": "map",

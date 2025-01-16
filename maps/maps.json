@@ -1188,6 +1188,12 @@
     "img": "images/maps/route_501.png"
   },
   {
+    "name": "route_502",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/route_502.png"
+  },
+  {
     "name": "route_1",
     "location_size": 12,
     "location_border_thickness": 2,

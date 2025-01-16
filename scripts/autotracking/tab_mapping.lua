@@ -1033,9 +1033,14 @@ TAB_MAPPING = {
     [8194] = { -- Route 501 House
         [0] = {"Routes", "Route 501"}
     },
-    [788] = { -- Route 2
-        [0] = {"Routes", "Route 2", "North"},
-        [1] = {"Routes", "Route 2", "South"}
+    [788] = { -- Route 502
+        [0] = {"Routes", "Route 502"}
+    },
+    [779] = { -- Route 502 Gatehouse 1F
+        [0] = {"Routes", "Route 502"}
+    },
+    [5633] = { -- Route 502 Gatehouse 2F
+        [0] = {"Routes", "Route 502"}
     },
     [3840] = { -- Route 2 Viridian Forest South Entrance
         [0] = {"Routes", "Route 2", "South"}
@@ -1110,9 +1115,6 @@ TAB_MAPPING = {
         [1] = {"Routes", "Route 11", "East"}
     },
     [5632] = { -- Route 11 East Entrance 1F
-        [0] = {"Routes", "Route 11", "East"}
-    },
-    [5633] = { -- Route 11 East Entrance 2F
         [0] = {"Routes", "Route 11", "East"}
     },
     [798] = { -- Route 12

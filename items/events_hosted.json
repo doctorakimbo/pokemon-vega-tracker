@@ -1,5 +1,11 @@
 [
   {
+    "name": "Defeat Winstrates",
+    "type": "toggle",
+    "img": "images/locations/winstrates.png",
+    "codes": "defeat_winstrates_hosted"
+  },
+  {
     "name": "Deliver Oak's Parcel",
     "type": "toggle",
     "img": "images/locations/oak.png",

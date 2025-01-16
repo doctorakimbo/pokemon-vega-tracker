@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Route 502",
+    "children": [
+	  {
+        "name": "Man in West Corner",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/Gift from Man in West Corner",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 150,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "name": "Youngster Josh",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/Youngster Josh Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 448,
+            "y": 128
+          }
+        ]
+      },
+      {
+        "name": "Lass Robin",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/Lass Robin Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 630,
+            "y": 225
+          }
+        ]
+      },
+      {
+        "name": "Twins Joy & Meg",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/Twins Joy & Meg Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 677,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 568,
+            "y": 428
+          }
+        ]
+      },
+      {
+        "name": "Bug Catcher Sammy",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/Bug Catcher Sammy Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 868,
+            "y": 229
+          }
+        ]
+      },
+      {
+        "name": "School Kid Georgia",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/School Kid Georgia Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 987,
+            "y": 67
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 987,
+            "y": 47
+          }
+        ]
+      },
+      {
+        "name": "Youngster Timmy",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/Youngster Timmy Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 1110,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "School Kid Chase",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/School Kid Chase Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 1305,
+            "y": 205
+          }
+        ]
+      },
+      {
+        "name": "Route 502 Gatehouse",
+        "sections": [
+          {
+            "ref": "Routes/Route 502/School Kid Vivian Reward",
+            "name": "School Kid Vivian Reward"
+          },
+          {
+            "ref": "Routes/Route 502/Youngster Vincent Reward",
+            "name": "Youngster Vincent Reward"
+          },
+          {
+            "ref": "Routes/Route 502/Lass Violet Reward",
+            "name": "Lass Violet Reward"
+          },
+          {
+            "ref": "Routes/Route 502/Defeat Winstrates (Event)",
+            "name": "Defeat Winstrates (Event)"
+          },
+          {
+            "ref": "Routes/Route 502/Gift from Violet Winstrate",
+            "name": "Gift from Violet Winstrate"
+          },
+          {
+            "ref": "Routes/Route 502/School Kid Vivian Rematch Reward",
+            "name": "School Kid Vivian Rematch Reward"
+          },
+          {
+            "ref": "Routes/Route 502/Youngster Vincent Rematch Reward",
+            "name": "Youngster Vincent Rematch Reward"
+          },
+          {
+            "ref": "Routes/Route 502/Lass Violet Rematch Reward",
+            "name": "Lass Violet Rematch Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_502",
+            "x": 1110,
+            "y": 265
+          },
+          {
+            "map": "route_502",
+            "x": 1225,
+            "y": 265
+          }
+        ]
+      }
+    ]
+  }
+]
