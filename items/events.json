@@ -1,9 +1,21 @@
 [
   {
+    "name": "Talk to Lass Outside Junopsis Gym",
+    "type": "toggle",
+    "img": "images/events/lass.png",
+    "codes": "activate_winstrates"
+  },
+  {
     "name": "Defeat Winstrates",
     "type": "toggle",
     "img": "images/events/winstrates.png",
     "codes": "defeat_winstrates"
+  },
+  {
+    "name": "Defeat Annette",
+    "type": "toggle",
+    "img": "images/events/annette.png",
+    "codes": "defeat_annette"
   },
   {
     "name": "Deliver Oak's Parcel",

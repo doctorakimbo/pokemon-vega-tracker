@@ -108,6 +108,12 @@
     "img": "images/maps/porcelia_town.png"
   },
   {
+    "name": "junopsis_city",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/junopsis_city.png"
+  },
+  {
     "name": "viridian_forest_north",
     "location_size": 12,
     "location_border_thickness": 2,

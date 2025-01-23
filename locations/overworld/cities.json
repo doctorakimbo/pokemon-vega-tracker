@@ -46,6 +46,91 @@
         ]
       },
       {
+        "name": "Junopsis City",
+        "sections": [
+          {
+            "name": "Unlock Fly Destination",
+            "chest_unopened_img": "images/locations/fly_destination_unlock.png",
+            "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
+            "visibility_rules": [
+              "fly_destination_unlocks_on"
+            ]
+          },
+          {
+            "name": "Nugget Man's Gift",
+            "chest_unopened_img": "images/locations/balding_man_nugget.png",
+            "chest_opened_img": "images/locations/balding_man_nugget_bw.png"
+          },
+          {
+            "name": "Black Belt's Gift",
+            "chest_unopened_img": "images/locations/black_belt_focus_band.png",
+            "chest_opened_img": "images/locations/black_belt_focus_band_bw.png",
+            "access_rules": [
+              "$rock_smash"
+            ]
+          },
+          {
+            "name": "Talk to Lass Outside Junopsis Gym (Event)",
+            "hosted_item": "activate_winstrates_hosted",
+            "visibility_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "Lass Iris Reward",
+            "chest_unopened_img": "images/locations/lass.png",
+            "chest_opened_img": "images/locations/lass_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Defeat Annette (Event)",
+            "hosted_item": "defeat_annette_hosted",
+            "access_rules": [
+              "TODO"
+            ],
+          },
+          {
+            "name": "Gym Leader Annette Reward",
+            "chest_unopened_img": "images/locations/annette.png",
+            "chest_opened_img": "images/locations/annette_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Junopsis Gym Prize",
+            "chest_unopened_img": "images/locations/annette_elnath_badge.png",
+            "chest_opened_img": "images/locations/annette_elnath_badge_bw.png",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "Annette's TM",
+            "chest_unopened_img": "images/locations/annette_bug_tm.png",
+            "chest_opened_img": "images/locations/annette_bug_tm_bw.png",
+            "access_rules": [
+              "TODO"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 123,
+            "y": 74
+          }
+        ]
+      },
+      {
         "name": "Viridian City",
         "sections": [
           {

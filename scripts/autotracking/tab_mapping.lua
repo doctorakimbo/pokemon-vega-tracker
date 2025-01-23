@@ -14,25 +14,31 @@ TAB_MAPPING = {
     [1027] = { -- Holly's Lab
         [0] = {"Cities", "Porcelia Town"}
     },
-    [769] = { -- Viridian City
-        [0] = {"Cities", "Viridian City"}
+    [769] = { -- Junopsis City
+        [0] = {"Cities", "Junopsis City"}
     },
-    [1280] = { -- Viridian House
-        [0] = {"Cities", "Viridian City"}
+    [1280] = { -- Junopsis North House
+        [0] = {"Cities", "Junopsis City"}
+    },
+    [1282] = { -- Junopsis School
+        [0] = {"Cities", "Junopsis City"}
+    },
+    [1283] = { -- Junopsis Poké Mart
+        [0] = {"Cities", "Junopsis City"}
+    },
+    [1284] = { -- Junopsis Pokémon Center 1F
+        [0] = {"Cities", "Junopsis City"}
+    },
+    [1285] = { -- Junopsis Pokémon Center 2F
+        [0] = {"Cities", "Junopsis City"}
+    },
+    [1538] = { -- Junopsis Gym
+        [0] = {"Cities", "Junopsis City"}
+    },
+    [3841] = { -- Junopsis Trade House
+        [0] = {"Cities", "Junopsis City"}
     },
     [1281] = { -- Viridian Gym
-        [0] = {"Cities", "Viridian City"}
-    },
-    [1282] = { -- Viridian School
-        [0] = {"Cities", "Viridian City"}
-    },
-    [1283] = { -- Viridian Poké Mart
-        [0] = {"Cities", "Viridian City"}
-    },
-    [1284] = { -- Viridian Pokémon Center 1F
-        [0] = {"Cities", "Viridian City"}
-    },
-    [1285] = { -- Viridian Pokémon Center 2F
         [0] = {"Cities", "Viridian City"}
     },
     [770] = { -- Pewter City
@@ -42,9 +48,6 @@ TAB_MAPPING = {
         [0] = {"Cities", "Pewter City"}
     },
     [1537] = { -- Pewter Museum 2F
-        [0] = {"Cities", "Pewter City"}
-    },
-    [1538] = { -- Pewter Gym
         [0] = {"Cities", "Pewter City"}
     },
     [1539] = { -- Pewter Poké Mart
@@ -1044,9 +1047,6 @@ TAB_MAPPING = {
     },
     [3840] = { -- Route 2 Viridian Forest South Entrance
         [0] = {"Routes", "Route 2", "South"}
-    },
-    [3841] = { -- Route 2 House
-        [0] = {"Routes", "Route 2", "North"}
     },
     [3842] = { -- Route 2 East Building
         [0] = {"Routes", "Route 2", "South"}

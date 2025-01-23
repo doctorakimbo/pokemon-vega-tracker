@@ -73,6 +73,24 @@
           "dock": "top",
           "tabs": [
             {
+              "title": "Porcelia Town",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "porcelia_town"
+                ]
+              }
+            },
+            {
+              "title": "Junopsis City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "junopsis_city"
+                ]
+              }
+            },
+            {
               "title": "Pallet Town",
               "content": {
                 "type": "map",
@@ -168,15 +186,6 @@
                 "type": "map",
                 "maps": [
                   "indigo_plateau"
-                ]
-              }
-            },
-            {
-              "title": "Porcelia Town",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "porcelia_town"
                 ]
               }
             }

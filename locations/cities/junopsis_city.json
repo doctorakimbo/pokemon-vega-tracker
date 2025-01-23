@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Junopsis City",
+    "children": [
+      {
+        "name": "Pokémon Center",
+        "sections": [
+          {
+            "ref": "Cities/Junopsis City/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "junopsis_city",
+            "x": 327,
+            "y": 248
+          }
+        ]
+      },
+      {
+        "name": "Nugget Man",
+        "sections": [
+          {
+            "ref": "Cities/Junopsis City/Nugget Man's Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "junopsis_city",
+            "x": 465,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Black Belt",
+        "sections": [
+          {
+            "ref": "Cities/Junopsis City/Black Belt's Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "junopsis_city",
+            "x": 605,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Lass Blocking Gym",
+        "sections": [
+          {
+            "ref": "Cities/Junopsis City/Talk to Lass Outside Junopsis Gym (Event)",
+            "name": "Talk to Lass (Event)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "junopsis_city",
+            "x": 646,
+            "y": 507
+          }
+        ]
+      },
+      {
+        "name": "Junopsis Gym",
+        "sections": [
+          {
+            "ref": "Cities/Junopsis City/Lass Iris Reward",
+            "name": "Lass Iris Reward"
+          },
+          {
+            "ref": "Cities/Junopsis City/Defeat Annette (Event)",
+            "name": "Defeat Annette (Event)"
+          },
+          {
+            "ref": "Cities/Junopsis City/Gym Leader Annette Reward",
+            "name": "Gym Leader Annette Reward"
+          },
+          {
+            "ref": "Cities/Junopsis City/Junopsis Gym Prize",
+            "name": "Junopsis Gym Prize"
+          },
+          {
+            "ref": "Cities/Junopsis City/Annette's TM",
+            "name": "Annette's TM"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "junopsis_city",
+            "x": 646,
+            "y": 490
+          }
+        ]
+      }
+    ]
+  }
+]
