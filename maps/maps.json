@@ -2154,6 +2154,12 @@
     "img": "images/maps/route_502.png"
   },
   {
+    "name": "route_503",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/route_503.png"
+  },
+  {
     "name": "route_1",
     "location_size": 12,
     "location_border_thickness": 2,

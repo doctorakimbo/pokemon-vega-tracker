@@ -223,6 +223,121 @@
         ]
       },
       {
+        "name": "Route 503",
+        "sections": [
+          {
+            "name": "Northwest Item"
+          },
+          {
+            "name": "Youngster Calvin Reward",
+            "chest_unopened_img": "images/locations/youngster.png",
+            "chest_opened_img": "images/locations/youngster_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Camper Liam Reward",
+            "chest_unopened_img": "images/locations/camper.png",
+            "chest_opened_img": "images/locations/camper_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Picnicker Diana Reward",
+            "chest_unopened_img": "images/locations/picnicker.png",
+            "chest_opened_img": "images/locations/picnicker_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Twins Ann & Anne Reward",
+            "chest_unopened_img": "images/locations/twins.png",
+            "chest_opened_img": "images/locations/twins_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Bug Catcher Rick Reward",
+            "chest_unopened_img": "images/locations/bug_catcher.png",
+            "chest_opened_img": "images/locations/bug_catcher_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Hiker Clark Reward",
+            "chest_unopened_img": "images/locations/hiker.png",
+            "chest_opened_img": "images/locations/hiker_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Rich Boy Everett Reward",
+            "chest_unopened_img": "images/locations/boy.png",
+            "chest_opened_img": "images/locations/boy_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Lady Jacki Reward",
+            "chest_unopened_img": "images/locations/beauty.png",
+            "chest_opened_img": "images/locations/beauty_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Southeast Item"
+          },
+          {
+            "name": "Lass Miriam Reward",
+            "chest_unopened_img": "images/locations/lass.png",
+            "chest_opened_img": "images/locations/lass_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "School Kid Olivia Reward",
+            "chest_unopened_img": "images/locations/little_girl.png",
+            "chest_opened_img": "images/locations/little_girl_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Hiker Brice Reward",
+            "chest_unopened_img": "images/locations/hiker.png",
+            "chest_opened_img": "images/locations/hiker_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "School Kid Fabian Reward",
+            "chest_unopened_img": "images/locations/youngster.png",
+            "chest_opened_img": "images/locations/youngster_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 123,
+            "y": 91,
+            "size": 4
+          }
+        ]
+      },
+      {
         "name": "Route 1",
         "sections": [
           {

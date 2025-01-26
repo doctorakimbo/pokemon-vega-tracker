@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Route 503",
+    "children": [
+      {
+        "name": "Northwest Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Northwest Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 170,
+            "y": 252
+          }
+        ]
+      },
+      {
+        "name": "Youngster Calvin",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Youngster Calvin Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 449,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "name": "Camper Liam",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Camper Liam Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 270,
+            "y": 252
+          }
+        ]
+      },
+      {
+        "name": "Picnicker Diana",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Picnicker Diana Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 430,
+            "y": 547
+          }
+        ]
+      },
+      {
+        "name": "Twins Ann & Anne",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Twins Ann & Anne Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 237,
+            "y": 508
+          }
+        ]
+      },
+      {
+        "name": "Bug Catcher Rick",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Bug Catcher Rick Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 215,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Hiker Clark",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Hiker Clark Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 155,
+            "y": 672
+          }
+        ]
+      },
+      {
+        "name": "Rich Boy Everett",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Rich Boy Everett Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 289,
+            "y": 710
+          }
+        ]
+      },
+      {
+        "name": "Lady Jacki",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Lady Jacki Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 272,
+            "y": 805
+          }
+        ]
+      },
+      {
+        "name": "Southeast Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Southeast Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 528,
+            "y": 930
+          }
+        ]
+      },
+      {
+        "name": "Lass Miriam",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Lass Miriam Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 107,
+            "y": 865
+          }
+        ]
+      },
+      {
+        "name": "School Kid Olivia",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/School Kid Olivia Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 107,
+            "y": 990
+          }
+        ]
+      },
+      {
+        "name": "Hiker Brice",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/Hiker Brice Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 248,
+            "y": 990
+          }
+        ]
+      },
+      {
+        "name": "School Kid Fabian",
+        "sections": [
+          {
+            "ref": "Routes/Route 503/School Kid Fabian Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_503",
+            "x": 268,
+            "y": 1530
+          }
+        ]
+      }
+    ]
+  }
+]

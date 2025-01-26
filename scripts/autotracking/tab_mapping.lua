@@ -1081,15 +1081,14 @@ TAB_MAPPING = {
     [5633] = { -- Route 502 Gatehouse 2F
         [0] = {"Routes", "Route 502"}
     },
+    [789] = { -- Route 503
+        [0] = {"Routes", "Route 503"}
+    },
     [3840] = { -- Route 2 Viridian Forest South Entrance
         [0] = {"Routes", "Route 2", "South"}
     },
     [3842] = { -- Route 2 East Building
         [0] = {"Routes", "Route 2", "Gate"}
-    },
-    [789] = { -- Route 3
-        [0] = {"Routes", "Route 3", "West"},
-        [1] = {"Routes", "Route 3", "East"}
     },
     [790] = { -- Route 4
         [0] = {"Routes", "Route 4", "Route", "West"},
