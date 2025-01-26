@@ -3,13 +3,31 @@
     "name": "Porcelia Town",
     "children": [
       {
-        "name": "Player's House",
+        "name": "Visit",
         "sections": [
           {
             "ref": "Cities/Porcelia Town/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "porcelia_town",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Player's House",
+        "sections": [
+          {
+            "ref": "Cities/Porcelia Town/PC Item"
           },
           {
-            "ref": "Cities/Porcelia Town/Mom's Gift"
+            "ref": "Cities/Porcelia Town/Gift from Mom 1"
+          },
+          {
+            "ref": "Cities/Porcelia Town/Gift from Mom 2"
           }
         ],
         "map_locations": [
