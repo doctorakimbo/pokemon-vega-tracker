@@ -247,6 +247,28 @@
     ]
   },
   {
+    "name": "Teas",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/settings/tea.png",
+        "img_mods": "overlay|/images/overlays/vanilla.png",
+        "codes": "teas_setting,teas_vanilla",
+        "inherit_codes": false,
+        "name": "Teas - Vanilla"
+      },
+      {
+        "img": "images/settings/tea.png",
+        "img_mods": "overlay|/images/overlays/split.png",
+        "codes": "teas_setting,teas_split",
+        "inherit_codes": false,
+        "name": "Teas - Split"
+      }
+    ]
+  },
+  {
     "name": "Itemfinder Required",
     "type": "progressive",
     "allow_disabled": false,
@@ -275,7 +297,6 @@
         "name": "Itemfinder Required - Required"
       }
     ]
-
   },
   {
     "name": "Flash Required",
@@ -306,7 +327,6 @@
         "name": "Flash Required - Required"
       }
     ]
-
   },
   {
     "name": "Fame Checker Required",
@@ -537,14 +557,14 @@
       {
         "img": "images/settings/boulder.png",
         "img_mods": "overlay|/images/overlays/route_12.png,@disabled",
-        "codes": "rotue_12_boulders_setting,rotue_12_boulders_off",
+        "codes": "route_12_boulders_setting,route_12_boulders_off",
         "inherit_codes": false,
         "name": "Route 12 Boulders - Off"
       },
       {
         "img": "images/settings/boulder.png",
         "img_mods": "overlay|/images/overlays/route_12.png",
-        "codes": "rotue_12_boulders_setting,rotue_12_boulders_on",
+        "codes": "route_12_boulders_setting,route_12_boulders_on",
         "inherit_codes": false,
         "name": "Route 12 Boulders - On"
       }
@@ -591,6 +611,50 @@
         "codes": "modify_route_16_setting,modify_route_16_on",
         "inherit_codes": false,
         "name": "Modify Route 16 - On"
+      }
+    ]
+  },
+  {
+    "name": "Open Silph Co.",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/settings/mr_fuji.png",
+        "img_mods": "overlay|/images/overlays/green_check.png",
+        "codes": "open_silph_setting,open_silph_off",
+        "inherit_codes": false,
+        "name": "Open Silph Co. - Off"
+      },
+      {
+        "img": "images/settings/mr_fuji.png",
+        "img_mods": "overlay|/images/overlays/red_x.png",
+        "codes": "open_silph_setting,open_silph_on",
+        "inherit_codes": false,
+        "name": "Open Silph Co. - On"
+      }
+    ]
+  },
+  {
+    "name": "Remove Saffron Rockets",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/settings/rocket_male.png",
+        "img_mods": "overlay|/images/overlays/green_check.png",
+        "codes": "saffron_rockets_setting,saffron_rockets_off",
+        "inherit_codes": false,
+        "name": "Remove Saffron Rockets - Off"
+      },
+      {
+        "img": "images/settings/rocket_male.png",
+        "img_mods": "overlay|/images/overlays/red_x.png",
+        "codes": "saffron_rockets_setting,saffron_rockets_on",
+        "inherit_codes": false,
+        "name": "Remove Saffron Rockets - On"
       }
     ]
   },
@@ -679,6 +743,28 @@
         "codes": "early_gossipers_setting,early_gossipers_on",
         "inherit_codes": false,
         "name": "Early Gossipers - On"
+      }
+    ]
+  },
+  {
+    "name": "Block Vermilion Sailing",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/settings/ss_ticket.png",
+        "img_mods": "overlay|/images/overlays/sail.png,@disabled",
+        "codes": "block_sailing_setting,block_sailing_off",
+        "inherit_codes": false,
+        "name": "Block Vermilion Sailing - Off"
+      },
+      {
+        "img": "images/settings/ss_ticket.png",
+        "img_mods": "overlay|/images/overlays/sail.png",
+        "codes": "block_sailing_setting,block_sailing_on",
+        "inherit_codes": false,
+        "name": "Block Vermilion Sailing - On"
       }
     ]
   },
@@ -779,6 +865,38 @@
     "overlay_font_size": 16,
     "overlay_background": "#000000",
     "codes": "elite_four_count"
+  },
+  {
+    "name": "Elite Four Rematch Requirement",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/settings/rival.png",
+        "img_mods": "overlay|/images/overlays/e4_rematch_rainbow_badge.png",
+        "codes": "elite_four_rematch_setting,elite_four_rematch_badges",
+        "inherit_codes": false,
+        "name": "Elite Four Rematch Requirement - Badges"
+      },
+      {
+        "img": "images/settings/rival.png",
+        "img_mods": "overlay|/images/overlays/e4_rematch_gym.png",
+        "codes": "elite_four_rematch_setting,elite_four_rematch_gyms",
+        "inherit_codes": false,
+        "name": "Elite Four Rematch Requirement - Gyms"
+      }
+    ]
+  },
+  {
+    "name": "Elite Four Rematch Count",
+    "type": "consumable",
+    "img": "images/settings/badge_gym.png",
+    "max_quantity": 8,
+    "initial_quantity": 8,
+    "overlay_font_size": 16,
+    "overlay_background": "#000000",
+    "codes": "elite_four_rematch_count"
   },
   {
     "name": "Route 22 Gate Requirement",
@@ -1327,6 +1445,29 @@
         "codes": "auto_tab_setting,auto_tab_on",
         "inherit_codes": false,
         "name": "Auto Tab - On"
+      }
+    ]
+  },
+  {
+    "name": "Split Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/settings/town_map_open.png",
+        "img_mods": "overlay|/images/overlays/split_alt.png,@disabled",
+        "codes": "split_map_setting,split_map_off",
+        "inherit_codes": false,
+        "name": "Split Map - Off"
+      },
+      {
+        "img": "images/settings/town_map_open.png",
+        "img_mods": "overlay|/images/overlays/split_alt.png",
+        "codes": "split_map_setting,split_map_on",
+        "inherit_codes": false,
+        "name": "Split Map - On"
       }
     ]
   }

@@ -3,7 +3,7 @@
     "name": "Three Island Town",
     "children": [
       {
-        "name": "Pokémon Center",
+        "name": "Visit",
         "sections": [
           {
             "ref": "Islands/Three Island Town/Unlock Fly Destination"
@@ -12,8 +12,8 @@
         "map_locations": [
           {
             "map": "three_island",
-            "x": 232,
-            "y": 440
+            "x": 12,
+            "y": 12
           }
         ]
       },
@@ -21,7 +21,7 @@
         "name": "Anti-Biker",
         "sections": [
           {
-            "ref": "Islands/Three Island Town/Anti-Biker's Gift",
+            "ref": "Islands/Three Island Town/Anti-Biker Gift",
             "name": "Gift"
           }
         ],
@@ -34,26 +34,10 @@
         ]
       },
       {
-        "name": "Woman",
-        "sections": [
-          {
-            "ref": "Islands/Three Island Town/Woman's Gift",
-            "name": "Gift"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "three_island",
-            "x": 248,
-            "y": 120
-          }
-        ]
-      },
-      {
         "name": "Sabrina Fan's House",
         "sections": [
           {
-            "ref": "Islands/Three Island Town/Sabrina Fan's Info (Sabrina 2)"
+            "ref": "Islands/Three Island Town/Sabrina Fan Info"
           }
         ],
         "map_locations": [
@@ -157,6 +141,63 @@
             "map": "three_island",
             "x": 136,
             "y": 392
+          }
+        ]
+      },
+      {
+        "name": "Lostelle's House",
+        "sections": [
+          {
+            "ref": "Islands/Three Island Town/Lostelle Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "three_island",
+            "x": 56,
+            "y": 504
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lostelle's House",
+    "children": [
+      {
+        "name": "Lostelle",
+        "sections": [
+          {
+            "ref": "Islands/Three Island Town/Lostelle Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "three_island_lostelles_house",
+            "x": 56,
+            "y": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sabrina Fan's House",
+    "children": [
+      {
+        "name": "Sabrina Fan",
+        "sections": [
+          {
+            "ref": "Islands/Three Island Town/Sabrina Fan Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "three_island_sabrina_fans_house",
+            "x": 120,
+            "y": 72
           }
         ]
       }

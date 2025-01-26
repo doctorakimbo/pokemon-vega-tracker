@@ -3,6 +3,21 @@
     "name": "Vermilion City",
     "children": [
       {
+        "name": "Visit",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "vermilion_city",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
         "name": "Hidden Item Near Pokémon Center",
         "sections": [
           {
@@ -22,8 +37,8 @@
         "name": "Gym Sign",
         "sections": [
           {
-            "ref": "Cities/Vermilion City/Gym Sign's Info (Lt. Surge 1)",
-            "name": "Info (Lt. Surge 1)"
+            "ref": "Cities/Vermilion City/Gym Sign Info",
+            "name": "Info"
           }
         ],
         "map_locations": [
@@ -38,16 +53,12 @@
         "name": "Pokémon Center",
         "sections": [
           {
-            "ref": "Cities/Vermilion City/Unlock Fly Destination",
-            "name": "Unlock Fly Destination"
+            "ref": "Cities/Vermilion City/Vs. Seeker Woman Gift",
+            "name": "Vs. Seeker Woman Gift"
           },
           {
-            "ref": "Cities/Vermilion City/Vs. Seeker Woman's Gift",
-            "name": "Vs. Seeker Woman's Gift"
-          },
-          {
-            "ref": "Cities/Vermilion City/Bookshelf's Info (Lt. Surge 6)",
-            "name": "Bookshelf's Info (Lt. Surge 6)"
+            "ref": "Cities/Vermilion City/Bookshelf Info",
+            "name": "Bookshelf Info"
           }
         ],
         "map_locations": [
@@ -59,10 +70,10 @@
         ]
       },
       {
-        "name": "Fishing Guru's Gift's House",
+        "name": "Fishing Guru's House",
         "sections": [
           {
-            "ref": "Cities/Vermilion City/Fishing Guru's Gift"
+            "ref": "Cities/Vermilion City/Fishing Guru Gift"
           }
         ],
         "map_locations": [
@@ -77,12 +88,12 @@
         "name": "Pokémon Fan Club",
         "sections": [
           {
-            "ref": "Cities/Vermilion City/Pokémon Fan Club Chairman's Gift",
-            "name": "Chairman's Gift"
+            "ref": "Cities/Vermilion City/Pokémon Fan Club Chairman Gift",
+            "name": "Chairman Gift"
           },
           {
-            "ref": "Cities/Vermilion City/Pokémon Fan Club Worker's Info (Daisy 2)",
-            "name": "Worker's Info"
+            "ref": "Cities/Vermilion City/Pokémon Fan Club Worker Info",
+            "name": "Worker Info"
           }
         ],
         "map_locations": [
@@ -101,8 +112,8 @@
             "name": "Sailor Dwayne Reward"
           },
           {
-            "ref": "Cities/Vermilion City/Sailor Dwayne's Info (Lt. Surge 5)",
-            "name": "Sailor Dwayne's Info (Lt. Surge 5)"
+            "ref": "Cities/Vermilion City/Sailor Dwayne Info",
+            "name": "Sailor Dwayne Info"
           },
           {
             "ref": "Cities/Vermilion City/Engineer Baily Reward",
@@ -113,20 +124,20 @@
             "name": "Gentleman Tucker Reward"
           },
           {
-            "ref": "Cities/Vermilion City/Gentleman Tucker's Info (Lt. Surge 3)",
-            "name": "Gentleman Tucker's Info (Lt. Surge 3)"
+            "ref": "Cities/Vermilion City/Gentleman Tucker Info 1",
+            "name": "Gentleman Tucker Info 1"
           },
           {
-            "ref": "Cities/Vermilion City/Gentleman Tucker's Info (Lt. Surge 4)",
-            "name": "Gentleman Tucker's Info (Lt. Surge 4)"
+            "ref": "Cities/Vermilion City/Gentleman Tucker Info 2",
+            "name": "Gentleman Tucker Info 2"
           },
           {
             "ref": "Cities/Vermilion City/Defeat Lt. Surge (Event)",
             "name": "Defeat Lt. Surge (Event)"
           },
           {
-            "ref": "Cities/Vermilion City/Lt. Surge's Info (Lt. Surge 2)",
-            "name": "Lt. Surge's Info (Lt. Surge 2)"
+            "ref": "Cities/Vermilion City/Lt. Surge Info",
+            "name": "Lt. Surge Info"
           },
           {
             "ref": "Cities/Vermilion City/Leader Lt. Surge Reward",
@@ -137,8 +148,8 @@
             "name": "Vermilion Gym Prize"
           },
           {
-            "ref": "Cities/Vermilion City/Lt. Surge's TM",
-            "name": "Lt. Surge's TM"
+            "ref": "Cities/Vermilion City/Lt. Surge TM",
+            "name": "Lt. Surge TM"
           }
         ],
         "map_locations": [
@@ -146,6 +157,197 @@
             "map": "vermilion_city",
             "x": 232,
             "y": 408
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vermilion Fishing House",
+    "children": [
+      {
+        "name": "Fishing Guru",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Fishing Guru Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "vermilion_fishing_house",
+            "x": 72,
+            "y": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vermilion Pokémon Center",
+    "children": [
+      {
+        "name": "Vs. Seeker Woman",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Vs. Seeker Woman Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "vermilion_pokemon_center_1f",
+            "x": 104,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Bookshelf",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Bookshelf Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "vermilion_pokemon_center_1f",
+            "x": 48,
+            "y": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vermilion Pokémon Fan Club",
+    "children": [
+      {
+        "name": "Chairman",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Pokémon Fan Club Chairman Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pokemon_fan_club",
+            "x": 88,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Worker",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Pokémon Fan Club Worker Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pokemon_fan_club",
+            "x": 104,
+            "y": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vermilion Gym",
+    "children": [
+      {
+        "name": "Sailor Dwayne",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Sailor Dwayne Reward",
+            "name": "Reward"
+          },
+          {
+            "ref": "Cities/Vermilion City/Sailor Dwayne Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "vermilion_gym",
+            "x": 136,
+            "y": 216
+          }
+        ]
+      },
+      {
+        "name": "Engineer Baily",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Engineer Baily Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "vermilion_gym",
+            "x": 40,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Gentleman Tucker",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Gentleman Tucker Reward",
+            "name": "Reward"
+          },
+          {
+            "ref": "Cities/Vermilion City/Gentleman Tucker Info 1",
+            "name": "Info 1"
+          },
+          {
+            "ref": "Cities/Vermilion City/Gentleman Tucker Info 2",
+            "name": "Info 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "vermilion_gym",
+            "x": 120,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Lt. Surge",
+        "sections": [
+          {
+            "ref": "Cities/Vermilion City/Defeat Lt. Surge (Event)",
+            "name": "Defeat Lt. Surge (Event)"
+          },
+          {
+            "ref": "Cities/Vermilion City/Lt. Surge Info",
+            "name": "Info"
+          },
+          {
+            "ref": "Cities/Vermilion City/Leader Lt. Surge Reward",
+            "name": "Reward"
+          },
+          {
+            "ref": "Cities/Vermilion City/Vermilion Gym Prize",
+            "name": "Gym Prize"
+          },
+          {
+            "ref": "Cities/Vermilion City/Lt. Surge TM",
+            "name": "TM"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "vermilion_gym",
+            "x": 88,
+            "y": 40
           }
         ]
       }

@@ -21,8 +21,8 @@
         "name": "Boy",
         "sections": [
           {
-            "ref": "Routes/Route 4 West/Boy's Info (Brock 4)",
-            "name": "Info (Brock 4)"
+            "ref": "Routes/Route 4 West/Boy Info",
+            "name": "Info"
           }
         ],
         "map_locations": [
@@ -110,6 +110,26 @@
             "map": "route_4_east",
             "x": 312,
             "y": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Route 4 Pokémon Center 1F",
+    "children": [
+      {
+        "name": "Visit",
+        "sections": [
+          {
+            "ref": "Routes/Route 4 West/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_4_pokemon_center_1f",
+            "x": 12,
+            "y": 12
           }
         ]
       }

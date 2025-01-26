@@ -38,8 +38,8 @@
         "name": "Black Belt",
         "sections": [
           {
-            "ref": "Islands/Sevault Canyon/Black Belt's Info (Bruno 6)",
-            "name": "Info (Bruno 6)"
+            "ref": "Islands/Sevault Canyon/Black Belt Info",
+            "name": "Info"
           }
         ],
         "map_locations": [
@@ -207,6 +207,27 @@
             "map": "sevault_canyon_north",
             "x": 216,
             "y": 584
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sevault Canyon Chansey House",
+    "children": [
+      {
+        "name": "Item",
+        "sections": [
+          {
+            "ref": "Islands/Sevault Canyon/Chansey House Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "sevault_canyon_chansey_house",
+            "x": 104,
+            "y": 72
           }
         ]
       }

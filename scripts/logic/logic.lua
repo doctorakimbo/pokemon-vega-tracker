@@ -8,7 +8,11 @@ function cut()
 end
 
 function fly(location)
-    return (has("thunder_badge") or not has("thunder_badge_required")) and has("hm02_fly") and has("fly_"..location)
+    return (has("thunder_badge") or not has("thunder_badge_required")) and has("hm02_fly") and has_fly_location(location)
+end
+
+function has_fly_location(location)
+    return has("fly_"..location) or has("free_fly_"..location) or (has("town_map_fly_"..location) and has("town_map"))
 end
 
 function surf()
@@ -46,13 +50,6 @@ end
 
 function post_game_fame()
     return has("defeat_champion") or has("early_gossipers_on")
-end
-
-function grind_money()
-    if has("vs_seeker") or (has("defeat_chmapion") and has("restore_pokemon_network_machine")) then
-        return AccessibilityLevel.Normal
-    end
-    return AccessibilityLevel.SequenceBreak
 end
 
 function route_2_oaks_aide()
@@ -167,6 +164,18 @@ function route_16()
     return has("poke_flute") or (cut() and rock_smash() and has("modify_route_16_on"))
 end
 
+function open_silph()
+    return has("open_silph_on") or has("saffron_rockets_on") or has("rescue_mr_fuji")
+end
+
+function saffron_rockets()
+    return has("saffron_rockets_on") or has("liberate_silph_co")
+end
+
+function vermilion_sailing()
+    return has("block_sailing_off") or has("ss_ticket")
+end
+
 function has_giovanni_req()
     local req = Tracker:ProviderCountForCode("viridian_gym_count")
     local req_items = {}
@@ -249,6 +258,23 @@ function has_e4_req()
     if has("elite_four_badges") then
         req_items = BADGES
     elseif has("elite_four_gyms") then
+        req_items = GYMS
+    end
+    for _, item in pairs(req_items) do
+        if has(item) then
+            count = count + 1
+        end
+    end
+    return count >= req
+end
+
+function has_e4_rematch_req()
+    local req = Tracker:ProviderCountForCode("elite_four_rematch_count")
+    local req_items = {}
+    local count = 0
+    if has("elite_four_rematch_badges") then
+        req_items = BADGES
+    elseif has("elite_four_rematch_gyms") then
         req_items = GYMS
     end
     for _, item in pairs(req_items) do

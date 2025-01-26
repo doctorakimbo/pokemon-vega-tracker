@@ -208,7 +208,7 @@
             "name": "1F - East Item"
           },
           {
-            "name": "1F - Balding Man's Info (Brock 5)",
+            "name": "1F - Balding Man Info",
             "chest_unopened_img": "images/locations/balding_man_info.png",
             "chest_opened_img": "images/locations/balding_man_info_bw.png",
             "access_rules": [
@@ -705,7 +705,7 @@
             ]
           },
           {
-            "name": "Captain's Office - Captain's Gift",
+            "name": "Captain's Office - Captain Gift",
             "chest_unopened_img": "images/locations/captain_normal_tm.png",
             "chest_opened_img": "images/locations/captain_normal_tm_bw.png"
           }
@@ -1138,7 +1138,7 @@
             ]
           },
           {
-            "name": "7F - Team Rocket Grunt's Info (Mr. Fuji 2)",
+            "name": "7F - Team Rocket Grunt Info",
             "chest_unopened_img": "images/locations/rocket_male_info.png",
             "chest_opened_img": "images/locations/rocket_male_info_bw.png",
             "access_rules": [
@@ -1434,7 +1434,7 @@
             ]
           },
           {
-            "name": "B4F - Rocket Grunt's Item"
+            "name": "B4F - Rocket Grunt Item"
           },
           {
             "name": "B4F - Southwest Room Item",
@@ -1465,7 +1465,7 @@
             ]
           },
           {
-            "name": "B4F - Giovanni's Info (Giovanni 1)",
+            "name": "B4F - Giovanni Info",
             "chest_unopened_img": "images/locations/giovanni_info.png",
             "chest_opened_img": "images/locations/giovanni_info_bw.png",
             "access_rules": [
@@ -1487,7 +1487,7 @@
             ]
           },
           {
-            "name": "B4F - Giovanni's Item",
+            "name": "B4F - Giovanni Item",
             "access_rules": [
               "lift_key"
             ]
@@ -1543,6 +1543,11 @@
             "map": "celadon_city",
             "x": 560,
             "y": 344
+          },
+          {
+            "map": "celadon_game_corner",
+            "x": 264,
+            "y": 40
           }
         ]
       },
@@ -1592,7 +1597,7 @@
             "name": "North - North Item"
           },
           {
-            "name": "North Rest House - Balding Man's Info (Koga 6)",
+            "name": "North Rest House - Balding Man Info",
             "chest_unopened_img": "images/locations/balding_man_info.png",
             "chest_opened_img": "images/locations/balding_man_info_bw.png",
             "access_rules": [
@@ -1626,7 +1631,7 @@
             ]
           },
           {
-            "name": "Secret House - Attendant's Gift",
+            "name": "Secret House - Campaign Prize",
             "chest_unopened_img": "images/locations/worker_male_water_tm.png",
             "chest_opened_img": "images/locations/worker_male_water_tm_bw.png"
           }
@@ -1654,21 +1659,9 @@
       {
         "name": "Silph Co.",
         "access_rules": [
-          "@Saffron City Access,rescue_mr_fuji"
+          "@Saffron City Access,$open_silph"
         ],
         "sections": [
-          {
-            "name": "1F - Receptionist's Gift",
-            "chest_unopened_img": "images/locations/worker_female_card_key.png",
-            "chest_opened_img": "images/locations/worker_female_card_key_bw.png",
-            "access_rules": [
-              "liberate_silph_co"
-            ],
-            "visibility_rules": [
-              "card_keys_split",
-              "card_keys_prog"
-            ]
-          },
           {
             "name": "2F - East Team Rocket Grunt Reward",
             "chest_unopened_img": "images/locations/rocket_male.png",
@@ -1691,6 +1684,13 @@
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
               "trainersanity_on"
+            ]
+          },
+          {
+            "name": "2F - Southeast Room Item",
+            "visibility_rules": [
+              "card_keys_split",
+              "card_keys_prog"
             ]
           },
           {
@@ -1721,9 +1721,7 @@
             ]
           },
           {
-            "name": "3F - Worker's Gift",
-            "chest_unopened_img": "images/locations/worker_male_card_key.png",
-            "chest_opened_img": "images/locations/worker_male_card_key_bw.png",
+            "name": "3F - East Room Item",
             "visibility_rules": [
               "card_keys_split",
               "card_keys_prog"
@@ -1792,6 +1790,13 @@
             ]
           },
           {
+            "name": "4F - North Room Item",
+            "visibility_rules": [
+              "card_keys_split",
+              "card_keys_prog"
+            ]
+          },
+          {
             "name": "4F - Scientist Rodney Reward",
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
@@ -1821,19 +1826,6 @@
             ]
           },
           {
-            "name": "4F - Worker's Gift",
-            "chest_unopened_img": "images/locations/worker_male_card_key.png",
-            "chest_opened_img": "images/locations/worker_male_card_key_bw.png",
-            "access_rules": [
-              "card_key",
-              "card_key_4f"
-            ],
-            "visibility_rules": [
-              "card_keys_split",
-              "card_keys_prog"
-            ]
-          },
-          {
             "name": "5F - Northeast Team Rocket Grunt Reward",
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
@@ -1858,19 +1850,6 @@
             "chest_opened_img": "images/locations/rocker_bw.png",
             "visibility_rules": [
               "trainersanity_on"
-            ]
-          },
-          {
-            "name": "5F - Worker's Gift",
-            "chest_unopened_img": "images/locations/worker_male_card_key.png",
-            "chest_opened_img": "images/locations/worker_male_card_key_bw.png",
-            "access_rules": [
-              "card_key",
-              "card_key_5f"
-            ],
-            "visibility_rules": [
-              "card_keys_split",
-              "card_keys_prog"
             ]
           },
           {
@@ -1912,7 +1891,7 @@
             ]
           },
           {
-            "name": "5F - Scientist's Info (Giovanni 2)",
+            "name": "5F - Scientist Info",
             "chest_unopened_img": "images/locations/scientist_info.png",
             "chest_opened_img": "images/locations/scientist_info_bw.png",
             "access_rules": [
@@ -1935,9 +1914,7 @@
             ]
           },
           {
-            "name": "6F - Worker's Gift",
-            "chest_unopened_img": "images/locations/worker_male_card_key.png",
-            "chest_opened_img": "images/locations/worker_male_card_key_bw.png",
+            "name": "6F - Center Room Item",
             "visibility_rules": [
               "card_keys_split",
               "card_keys_prog"
@@ -2001,19 +1978,6 @@
             ]
           },
           {
-            "name": "7F - Worker's Gift",
-            "chest_unopened_img": "images/locations/worker_female_card_key.png",
-            "chest_opened_img": "images/locations/worker_female_card_key_bw.png",
-            "access_rules": [
-              "card_key",
-              "card_key_7f"
-            ],
-            "visibility_rules": [
-              "card_keys_split",
-              "card_keys_prog"
-            ]
-          },
-          {
             "name": "7F - Scientist Joshua Reward",
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
@@ -2064,6 +2028,17 @@
             ]
           },
           {
+            "name": "7F - Northwest Room Item",
+            "access_rules": [
+              "card_key",
+              "card_key_3f"
+            ],
+            "visibility_rules": [
+              "card_keys_split",
+              "card_keys_prog"
+            ]
+          },
+          {
             "name": "8F - Northeast Team Rocket Grunt Reward",
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
@@ -2088,9 +2063,7 @@
             ]
           },
           {
-            "name": "8F - Worker's Gift",
-            "chest_unopened_img": "images/locations/worker_male_card_key.png",
-            "chest_opened_img": "images/locations/worker_male_card_key_bw.png",
+            "name": "8F - West Room Item",
             "visibility_rules": [
               "card_keys_split",
               "card_keys_prog"
@@ -2111,7 +2084,7 @@
             ]
           },
           {
-            "name": "8F - Scientist's Info (Giovanni 3)",
+            "name": "8F - Scientist Info",
             "chest_unopened_img": "images/locations/scientist_info.png",
             "chest_opened_img": "images/locations/scientist_info_bw.png",
             "access_rules": [
@@ -2150,19 +2123,6 @@
             ]
           },
           {
-            "name": "9F - Nurse's Gift",
-            "chest_unopened_img": "images/locations/woman_2_card_key.png",
-            "chest_opened_img": "images/locations/woman_2_card_key_bw.png",
-            "access_rules": [
-              "card_key",
-              "card_key_9f"
-            ],
-            "visibility_rules": [
-              "card_keys_split",
-              "card_keys_prog"
-            ]
-          },
-          {
             "name": "9F - West Room Plant Hidden Item",
             "chest_unopened_img": "images/locations/hidden_item.png",
             "chest_opened_img": "images/locations/hidden_item_bw.png",
@@ -2185,6 +2145,18 @@
             ],
             "visibility_rules": [
               "trainersanity_on"
+            ]
+          },
+          {
+            "name": "9F - Northwest Room Item",
+            "access_rules": [
+              "card_key",
+              "card_key_3f",
+              "card_key_9f"
+            ],
+            "visibility_rules": [
+              "card_keys_split",
+              "card_keys_prog"
             ]
           },
           {
@@ -2224,9 +2196,7 @@
             ]
           },
           {
-            "name": "10F - Worker's Gift",
-            "chest_unopened_img": "images/locations/worker_female_card_key.png",
-            "chest_opened_img": "images/locations/worker_female_card_key_bw.png",
+            "name": "10F - Southeast Room Item",
             "visibility_rules": [
               "card_keys_split",
               "card_keys_prog"
@@ -2268,6 +2238,17 @@
             ]
           },
           {
+            "name": "11F - West Hallway Item",
+            "access_rules": [
+              "card_key",
+              "card_key_3f"
+            ],
+            "visibility_rules": [
+              "card_keys_split",
+              "card_keys_prog"
+            ]
+          },
+          {
             "name": "11F - Liberate Silph Co. (Event)",
             "hosted_item": "liberate_silph_co_hosted",
             "access_rules": [
@@ -2288,7 +2269,7 @@
             ]
           },
           {
-            "name": "11F - President's Gift",
+            "name": "11F - President Gift",
             "chest_unopened_img": "images/locations/old_man_master_ball.png",
             "chest_opened_img": "images/locations/old_man_master_ball_bw.png",
             "access_rules": [
@@ -3092,7 +3073,7 @@
             "hosted_item": "rescue_lostelle_hosted"
           },
           {
-            "name": "Lostelle's Gift",
+            "name": "Lostelle Gift",
             "chest_unopened_img": "images/locations/little_girl_iapapa_berry.png",
             "chest_opened_img": "images/locations/little_girl_iapapa_berry_bw.png"
           },
@@ -3165,6 +3146,18 @@
             ],
             "visibility_rules": [
               "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Back - Lorelei Gift",
+            "chest_unopened_img": "images/locations/lorelei_rainbow_pass.png",
+            "chest_opened_img": "images/locations/lorelei_rainbow_pass_bw.png",
+            "access_rules": [
+              "$waterfall"
+            ],
+            "visibility_rules": [
+              "island_passes_split",
+              "island_passes_split_prog"
             ]
           }
         ],
@@ -3278,7 +3271,7 @@
             "chest_opened_img": "images/locations/scientist_sapphire_bw.png"
           },
           {
-            "name": "Scientist Gideon's Info (Giovanni 6)",
+            "name": "Scientist Gideon Info",
             "chest_unopened_img": "images/locations/scientist_info.png",
             "chest_opened_img": "images/locations/scientist_info_bw.png",
             "access_rules": [
@@ -3536,6 +3529,16 @@
           {
             "name": "Sapphire Room - Learn Yes Nah Chansey (Event)",
             "hosted_item": "learn_yes_nah_chansey_hosted"
+          },
+          {
+            "name": "1F - Dropped Item",
+            "access_rules": [
+              "learn_yes_nah_chansey"
+            ],
+            "visibility_rules": [
+              "island_passes_split",
+              "island_passes_split_prog"
+            ]
           }
         ],
         "map_locations": [
@@ -3555,6 +3558,38 @@
             "map": "ruin_valley",
             "x": 392,
             "y": 392
+          }
+        ]
+      },
+      {
+        "name": "Tanoby Key",
+        "access_rules": [
+          "@Seven Island Access"
+        ],
+        "visibility_rules": [
+          "kanto_only_off"
+        ],
+        "sections": [
+          {
+            "name": "Unlock Ruins (Event)",
+            "hosted_item": "unlock_ruins_hosted",
+            "access_rules": [
+              "$strength"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "kanto_sevii",
+            "x": 252,
+            "y": 236,
+            "size": 4
+          },
+          {
+            "map": "sevii_67",
+            "x": 60,
+            "y": 92,
+            "size": 4
           }
         ]
       },

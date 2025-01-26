@@ -3,11 +3,26 @@
     "name": "Cinnabar Island",
     "children": [
       {
+        "name": "Visit",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_island",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
         "name": "Gym Sign",
         "sections": [
           {
-            "ref": "Cities/Cinnabar Island/Gym Sign's Info (Blaine 1)",
-            "name": "Info (Blaine 1)"
+            "ref": "Cities/Cinnabar Island/Gym Sign Info",
+            "name": "Info"
           }
         ],
         "map_locations": [
@@ -22,8 +37,8 @@
         "name": "Woman",
         "sections": [
           {
-            "ref": "Cities/Cinnabar Island/Woman's Info (Blaine 4)",
-            "name": "Info (Blaine 4)"
+            "ref": "Cities/Cinnabar Island/Woman Info",
+            "name": "Info"
           }
         ],
         "map_locations": [
@@ -38,12 +53,12 @@
         "name": "Pokémon Center",
         "sections": [
           {
-            "ref": "Cities/Cinnabar Island/Unlock Fly Destination",
-            "name": "Unlock Fly Destination"
+            "ref": "Cities/Cinnabar Island/Bill Gift",
+            "name": "Bill Gift"
           },
           {
-            "ref": "Cities/Cinnabar Island/Bookshelf's Info (Mr. Fuji 6)",
-            "name": "Bookshelf's Info (Mr. Fuji 6)"
+            "ref": "Cities/Cinnabar Island/Bookshelf Info",
+            "name": "Bookshelf Info"
           }
         ],
         "map_locations": [
@@ -58,7 +73,7 @@
         "name": "Pokémon Lab",
         "sections": [
           {
-            "ref": "Cities/Cinnabar Island/Scientist's Gift"
+            "ref": "Cities/Cinnabar Island/Scientist Gift"
           }
         ],
         "map_locations": [
@@ -93,8 +108,8 @@
             "name": "Super Nerd Derek Reward"
           },
           {
-            "ref": "Cities/Cinnabar Island/Super Nerd Derek's Info (Blaine 3)",
-            "name": "Super Nerd Derek's Info (Blaine 3)"
+            "ref": "Cities/Cinnabar Island/Super Nerd Derek Info",
+            "name": "Super Nerd Derek Info"
           },
           {
             "ref": "Cities/Cinnabar Island/Burglar Dusty Reward",
@@ -113,24 +128,24 @@
             "name": "Leader Blaine Reward"
           },
           {
-            "ref": "Cities/Cinnabar Island/Blaine's Info (Blaine 2)",
-            "name": "Blaine's Info (Blaine 2)"
+            "ref": "Cities/Cinnabar Island/Blaine Info",
+            "name": "Blaine Info"
           },
           {
             "ref": "Cities/Cinnabar Island/Cinnabar Gym Prize",
             "name": "Cinnabar Gym Prize"
           },
           {
-            "ref": "Cities/Cinnabar Island/Blaine's TM",
-            "name": "Blaine's TM"
+            "ref": "Cities/Cinnabar Island/Blaine TM",
+            "name": "Blaine TM"
           },
           {
-            "ref": "Cities/Cinnabar Island/Photo's Info (Blaine 5)",
-            "name": "Photo's Info (Blaine 5)"
+            "ref": "Cities/Cinnabar Island/Photo Info 1",
+            "name": "Photo Info 1"
           },
           {
-            "ref": "Cities/Cinnabar Island/Photo's Info (Mr. Fuji 5)",
-            "name": "Photo's Info (Mr. Fuji 5)"
+            "ref": "Cities/Cinnabar Island/Photo Info 2",
+            "name": "Photo Info 2"
           }
         ],
         "map_locations": [
@@ -138,6 +153,237 @@
             "map": "cinnabar_island",
             "x": 328,
             "y": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cinnabar Gym",
+    "children": [
+      {
+        "name": "Burglar Quinn",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Burglar Quinn Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 408,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Super Nerd Erik",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Super Nerd Erik Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 408,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Super Nerd Avery",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Super Nerd Avery Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 280,
+            "y": 88
+          }
+        ]
+      },
+      {
+        "name": "Burglar Ramon",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Burglar Ramon Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 264,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Super Nerd Derek",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Super Nerd Derek Reward",
+            "name": "Reward"
+          },
+          {
+            "ref": "Cities/Cinnabar Island/Super Nerd Derek Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 264,
+            "y": 296
+          }
+        ]
+      },
+      {
+        "name": "Burglar Dusty",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Burglar Dusty Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 72,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Super Nerd Zac",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Super Nerd Zac Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 72,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Blaine",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Defeat Blaine (Event)",
+            "name": "Defeat Blaine (Event)"
+          },
+          {
+            "ref": "Cities/Cinnabar Island/Leader Blaine Reward",
+            "name": "Reward"
+          },
+          {
+            "ref": "Cities/Cinnabar Island/Blaine Info",
+            "name": "Info"
+          },
+          {
+            "ref": "Cities/Cinnabar Island/Cinnabar Gym Prize",
+            "name": "Gym Prize"
+          },
+          {
+            "ref": "Cities/Cinnabar Island/Blaine TM",
+            "name": "TM"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 88,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Photo",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Photo Info 1",
+            "name": "Info 1"
+          },
+          {
+            "ref": "Cities/Cinnabar Island/Photo Info 2",
+            "name": "Info 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_gym",
+            "x": 56,
+            "y": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pokémon Lab Research Room",
+    "children": [
+      {
+        "name": "Scientist",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Scientist Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pokemon_lab_research_room",
+            "x": 168,
+            "y": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cinnabar Pokémon Center 1F",
+    "children": [
+      {
+        "name": "Bill",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Bill Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_pokemon_center_1f",
+            "x": 184,
+            "y": 88
+          }
+        ]
+      },
+      {
+        "name": "Bookshelf",
+        "sections": [
+          {
+            "ref": "Cities/Cinnabar Island/Bookshelf Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "cinnabar_pokemon_center_1f",
+            "x": 48,
+            "y": 32
           }
         ]
       }

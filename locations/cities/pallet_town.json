@@ -3,10 +3,26 @@
     "name": "Pallet Town",
     "children": [
       {
-        "name": "Player's House",
+        "name": "Visit",
         "sections": [
           {
             "ref": "Cities/Pallet Town/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pallet_town",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Player's House",
+        "sections": [
+          {
+            "ref": "Cities/Pallet Town/PC Item",
+            "name": "PC Item"
           }
         ],
         "map_locations": [
@@ -21,8 +37,8 @@
         "name": "Oak's Lab Sign",
         "sections": [
           {
-            "ref": "Cities/Pallet Town/Oak's Lab Sign's Info (Oak 1)",
-            "name": "Info (Oak 1)"
+            "ref": "Cities/Pallet Town/Oak's Lab Sign Info",
+            "name": "Info"
           }
         ],
         "map_locations": [
@@ -45,28 +61,28 @@
             "name": "Deliver Oak's Parcel (Event)"
           },
           {
-            "ref": "Cities/Pallet Town/Oak's Gift (Deliver Parcel)",
-            "name": "Oak's Gift (Deliver Parcel)"
+            "ref": "Cities/Pallet Town/Oak Gift (Deliver Parcel)",
+            "name": "Oak Gift (Deliver Parcel)"
           },
           {
-            "ref": "Cities/Pallet Town/Oak's Info (Oak 2)",
-            "name": "Oak's Info (Oak 2)"
+            "ref": "Cities/Pallet Town/Oak Info",
+            "name": "Oak Info"
           },
           {
-            "ref": "Cities/Pallet Town/Oak's Gift (After Route 22 Rival)",
-            "name": "Oak's Gift (After Route 22 Rival)"
+            "ref": "Cities/Pallet Town/Oak Gift (Post Route 22 Rival)",
+            "name": "Oak Gift (Post Route 22 Rival)"
           },
           {
-            "ref": "Cities/Pallet Town/Oak's Aide's Info (Oak 3)",
-            "name": "Oak's Aide's Info (Oak 3)"
+            "ref": "Cities/Pallet Town/Oak's Aide F Info",
+            "name": "Oak's Aide F Info"
           },
           {
-            "ref": "Cities/Pallet Town/Oak's Aide's Info (Daisy 1)",
-            "name": "Oak's Aide's Info (Daisy 1)"
+            "ref": "Cities/Pallet Town/Oak's Aide M Info (Right)",
+            "name": "Oak's Aide M Info (Right)"
           },
           {
-            "ref": "Cities/Pallet Town/Oak's Aide's Info (Oak 6)",
-            "name": "Oak's Aide's Info (Oak 6)"
+            "ref": "Cities/Pallet Town/Oak's Aide M Info (Left)",
+            "name": "Oak's Aide M Info (Left)"
           }
         ],
         "map_locations": [
@@ -81,7 +97,7 @@
         "name": "Rival's House",
         "sections": [
           {
-            "ref": "Cities/Pallet Town/Daisy's Gift"
+            "ref": "Cities/Pallet Town/Daisy Gift"
           }
         ],
         "map_locations": [
@@ -96,11 +112,11 @@
         "name": "Oak",
         "sections": [
           {
-            "ref": "Cities/Pallet Town/Oak's Gift (First)",
+            "ref": "Cities/Pallet Town/Oak Gift 1",
             "name": "First Gift"
           },
           {
-            "ref": "Cities/Pallet Town/Oak's Gift (Second)",
+            "ref": "Cities/Pallet Town/Oak Gift 2",
             "name": "Second Gift"
           }
         ],
@@ -109,6 +125,145 @@
             "map": "pallet_town",
             "x": 104,
             "y": 136
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Player's House 2F",
+    "children": [
+      {
+        "name": "PC",
+        "sections": [
+          {
+            "ref": "Cities/Pallet Town/PC Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "players_house_2f",
+            "x": 24,
+            "y": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rival's House",
+    "children": [
+      {
+        "name": "Daisy",
+        "sections": [
+          {
+            "ref": "Cities/Pallet Town/Daisy Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "rivals_house",
+            "x": 88,
+            "y": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oak's Lab",
+    "children": [
+      {
+        "name": "Rival",
+        "sections": [
+          {
+            "ref": "Cities/Pallet Town/Rival Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oaks_lab",
+            "x": 88,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Oak",
+        "sections": [
+          {
+            "ref": "Cities/Pallet Town/Deliver Oak's Parcel (Event)",
+            "name": "Deliver Oak's Parcel (Event)"
+          },
+          {
+            "ref": "Cities/Pallet Town/Oak Gift (Deliver Parcel)",
+            "name": "Gift (Deliver Parcel)"
+          },
+          {
+            "ref": "Cities/Pallet Town/Oak Info",
+            "name": "Info"
+          },
+          {
+            "ref": "Cities/Pallet Town/Oak Gift (Post Route 22 Rival)",
+            "name": "Gift (Post Route 22 Rival)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oaks_lab",
+            "x": 104,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Oak's Aide M (Right)",
+        "sections": [
+          {
+            "ref": "Cities/Pallet Town/Oak's Aide M Info (Right)",
+            "name": "Info "
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oaks_lab",
+            "x": 184,
+            "y": 168
+          }
+        ]
+      },
+      {
+        "name": "Oak's Aide F",
+        "sections": [
+          {
+            "ref": "Cities/Pallet Town/Oak's Aide F Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oaks_lab",
+            "x": 40,
+            "y": 168
+          }
+        ]
+      },
+      {
+        "name": "Oak's Aide M (Left)",
+        "sections": [
+          {
+            "ref": "Cities/Pallet Town/Oak's Aide M Info (Left)",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oaks_lab",
+            "x": 56,
+            "y": 184
           }
         ]
       }

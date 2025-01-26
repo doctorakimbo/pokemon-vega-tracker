@@ -3,15 +3,25 @@
     "name": "Four Island Town",
     "children": [
       {
+        "name": "Visit",
+        "sections": [
+          {
+            "ref": "Islands/Four Island Town/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "four_island",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
         "name": "Pokémon Center",
         "sections": [
           {
-            "ref": "Islands/Four Island Town/Unlock Fly Destination",
-            "name": "Unlock Fly Destination"
-          },
-          {
-            "ref": "Islands/Four Island Town/Bookshelf's Info (Daisy 6)",
-            "name": "Bookshelf's Info (Daisy 6)"
+            "ref": "Islands/Four Island Town/Bookshelf Info"
           }
         ],
         "map_locations": [
@@ -90,7 +100,7 @@
         "name": "Poké Mart",
         "sections": [
           {
-            "ref": "Islands/Four Island Town/Old Man's Info (Lorelei 3)"
+            "ref": "Islands/Four Island Town/Old Man Info"
           }
         ],
         "map_locations": [
@@ -105,8 +115,8 @@
         "name": "Little Girl",
         "sections": [
           {
-            "ref": "Islands/Four Island Town/Little Girl's Info (Lorelei 5)",
-            "name": "Info (Lorelei 5)"
+            "ref": "Islands/Four Island Town/Little Girl Info",
+            "name": "Info"
           }
         ],
         "map_locations": [
@@ -121,8 +131,8 @@
         "name": "Old Woman",
         "sections": [
           {
-            "ref": "Islands/Four Island Town/Old Woman's Info (Lorelei 6)",
-            "name": "Info (Lorelei 6)"
+            "ref": "Islands/Four Island Town/Old Woman Info",
+            "name": "Info"
           }
         ],
         "map_locations": [
@@ -130,6 +140,48 @@
             "map": "four_island",
             "x": 424,
             "y": 312
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Four Island Pokémon Center 1F",
+    "children": [
+      {
+        "name": "Bookshelf",
+        "sections": [
+          {
+            "ref": "Islands/Four Island Town/Bookshelf Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "four_island_pokemon_center_1f",
+            "x": 48,
+            "y": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Four Island Mart",
+    "children": [
+      {
+        "name": "Old Man",
+        "sections": [
+          {
+            "ref": "Islands/Four Island Town/Old Man Info",
+            "name": "Info"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "four_island_mart",
+            "x": 104,
+            "y": 88
           }
         ]
       }
