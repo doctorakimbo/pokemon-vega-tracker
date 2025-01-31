@@ -326,6 +326,18 @@ TAB_MAPPING = {
     [336] = { -- Pokémon League Hall of Fame
         [0] = {"Cities", "Indigo Plateau", "Pokémon League", "Hall of Fame"}
     },
+    [292] = { -- Wiseman's Cave North Entrance
+    	[0] = {"Dungeons", "Wiseman's Cave", "North Entrance"}
+    },
+    [293] = { -- Wiseman's Cave B2F
+    	[0] = {"Dungeons", "Wiseman's Cave", "B2F"}
+    },
+    [294] = { -- Wiseman's Cave South Entrance
+    	[0] = {"Dungeons", "Wiseman's Cave", "South Entrance"}
+    },
+    [329] = { -- Wiseman's Cave B1F
+    	[0] = {"Dungeons", "Wiseman's Cave", "B1F"}
+    },
     [3840] = { -- Route 2 Viridian Forest South Entrance
         [0] = {"Dungeons", "Viridian Forest", "South Entrance"}
     },
@@ -432,15 +444,6 @@ TAB_MAPPING = {
     },
     [285] = { -- S.S. Anne 1F Room 6
         [0] = {"Dungeons", "S.S. Anne", "1F Corridor"}
-    },
-    [292] = { -- Diglett's Cave North Entrance
-    	[0] = {"Dungeons", "Diglett's Cave", "North Entrance"}
-    },
-    [293] = { -- Diglett's Cave B1F
-    	[0] = {"Dungeons", "Diglett's Cave", "B1F"}
-    },
-    [294] = { -- Diglett's Cave South Entrance
-    	[0] = {"Dungeons", "Diglett's Cave", "South Entrance"}
     },
     [337] = { -- Rock Tunnel 1F
         [0] = {"Dungeons", "Rock Tunnel", "1F"}
@@ -595,9 +598,6 @@ TAB_MAPPING = {
     },
     [328] = { -- Cerulean Cave 1F
         [0] = {"Dungeons", "Cerulean Cave", "1F"}
-    },
-    [329] = { -- Cerulean Cave 2F
-        [0] = {"Dungeons", "Cerulean Cave", "2F"}
     },
     [330] = { -- Cerulean Cave B1F
         [0] = {"Dungeons", "Cerulean Cave", "B1F"}

@@ -224,6 +224,9 @@
       },
       {
         "name": "Route 503",
+        "access_rules": [
+          "TODO"
+        ],
         "sections": [
           {
             "name": "Northwest Item"

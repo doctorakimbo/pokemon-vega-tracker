@@ -1,0 +1,405 @@
+[
+  {
+    "name": "Wiseman's Cave South Entrance",
+    "children": [
+      {
+        "name": "Old Man",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/South Entrance - Old Man Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_south_entrance",
+            "x": 72,
+            "y": 72
+          }
+        ]
+      },
+	]
+  },
+  {
+    "name": "Wiseman's Cave B1F",
+    "children": [
+      {
+        "name": "Northeast Team DH Grunt",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - Northeast Team DH Grunt Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 537,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Southeast Team DH Grunt",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - Southeast Team DH Grunt Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 485,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "South Team DH Grunt",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - South Team DH Grunt Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 344,
+            "y": 272
+          }
+        ]
+      },
+      {
+        "name": "South Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - South Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 214,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "West Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - West Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 152,
+            "y": 233
+          }
+        ]
+      },
+      {
+        "name": "Between Ledges Team DH Grunt",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - Between Ledges Team DH Grunt Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 312,
+            "y": 184
+          }
+        ]
+      },
+      {
+        "name": "Teleport Loop (Event)",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - Teleport Loop (Event)",
+            "name": "Jump Down Center Ledges"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 223,
+            "y": 233
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 72,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Cutscene Team DH Grunt",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B1F - Cutscene Team DH Grunt Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b1f",
+            "x": 74,
+            "y": 180
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wiseman's Cave B2F",
+    "children": [
+      {
+        "name": "Pokemon Ranger Jackson",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Pokemon Ranger Jackson Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 920,
+            "y": 1095
+          }
+        ]
+      },
+      {
+        "name": "Hiker Wayne",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Hiker Wayne Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 695,
+            "y": 693
+          }
+        ]
+      },
+      {
+        "name": "Battle Girl Jocelyn",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Battle Girl Jocelyn Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 1223,
+            "y": 919
+          }
+        ]
+      },
+      {
+        "name": "Hiker Quincy",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Hiker Quincy Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 792,
+            "y": 533
+          }
+        ]
+      },
+      {
+        "name": "Black Belt Hideki",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Black Belt Hideki Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 566,
+            "y": 1084
+          }
+        ]
+      },
+      {
+        "name": "Expert Auron",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Expert Auron Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 263,
+            "y": 1106
+          }
+        ]
+      },
+      {
+        "name": "Southwest Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Southwest Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 200,
+            "y": 947
+          }
+        ]
+      },
+      {
+        "name": "Poke Maniac Mark",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Poke Maniac Mark Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 1203,
+            "y": 587
+          }
+        ]
+      },
+      {
+        "name": "Pokemon Breeder Miles",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Pokemon Breeder Miles Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 1205,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Crush Kin Ron & Mia",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Crush Kin Ron & Mia Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 883,
+            "y": 102
+          }
+        ]
+      },
+      {
+        "name": "North Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - North Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 760,
+            "y": 237
+          }
+        ]
+      },
+      {
+        "name": "Ace Trainer Harrison",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Ace Trainer Harrison Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 780,
+            "y": 390
+          }
+        ]
+      },
+      {
+        "name": "Ace Trainer Caroline",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Ace Trainer Caroline Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 400,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Gym Leader Avery",
+        "sections": [
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Defeat Avery Rematch (Event)",
+            "name": "Defeat Avery Rematch (Event)"
+          },
+          {
+            "ref": "Dungeons/Wiseman's Cave/B2F - Gym Leader Avery Rematch Reward",
+            "name": "Gym Leader Avery Rematch Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "wisemans_cave_b2f",
+            "x": 72,
+            "y": 89
+          }
+        ]
+      }
+    ]
+  }
+]

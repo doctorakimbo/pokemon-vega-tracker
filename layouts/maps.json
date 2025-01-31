@@ -2330,6 +2330,51 @@
     "type": "tabbed",
     "tabs": [
       {
+        "title": "Wiseman's Cave",
+        "content": {
+          "type": "tabbed",
+          "dock": "top",
+          "tabs": [
+            {
+              "title": "North Entrance",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "wisemans_cave_north_entrance"
+                ]
+              }
+            },
+            {
+              "title": "South Entrance",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "wisemans_cave_south_entrance"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "wisemans_cave_b1f"
+                ]
+              }
+            },
+            {
+              "title": "B2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "wisemans_cave_b2f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
         "title": "Viridian Forest",
         "content": {
           "type": "tabbed",

@@ -16,12 +16,28 @@
     "codes": "defeat_winstrates_hosted"
   },
   {
+    "name": "Go Through Wiseman's Cave Teleport Loop",
+    "type": "toggle",
+    "img": "images/locations/wiseman_hole.png",
+    "img_mods": "@disabled",
+    "disabled_img_mods": "none",
+    "codes": "wiseman_loop_hosted"
+  },
+  {
     "name": "Defeat Annette",
     "type": "toggle",
     "img": "images/locations/annette.png",
     "img_mods": "@disabled",
     "disabled_img_mods": "none",
     "codes": "defeat_annette_hosted"
+  },
+  {
+    "name": "Defeat Avery Rematch",
+    "type": "toggle",
+    "img": "images/locations/avery.png",
+    "img_mods": "@disabled,overlay|images/overlays/rematch_alt.png|@disabled",
+    "disabled_img_mods": "overlay|images/overlays/rematch_alt.png",
+    "codes": "defeat_avery_rematch_hosted"
   },
   {
     "name": "Deliver Oak's Parcel",

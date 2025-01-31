@@ -12,10 +12,23 @@
     "codes": "defeat_winstrates"
   },
   {
+    "name": "Go Through Wiseman's Cave Teleport Loop",
+    "type": "toggle",
+    "img": "images/events/wiseman_hole.png",
+    "codes": "wiseman_loop"
+  },
+  {
     "name": "Defeat Annette",
     "type": "toggle",
     "img": "images/events/annette.png",
     "codes": "defeat_annette"
+  },
+  {
+    "name": "Defeat Avery Rematch",
+    "type": "toggle",
+    "img": "images/events/avery.png",
+    "img_mods": "overlay|images/overlays/rematch.png",
+    "codes": "defeat_avery"
   },
   {
     "name": "Deliver Oak's Parcel",

@@ -696,6 +696,30 @@
     "img": "images/maps/hall_of_fame.png"
   },
   {
+    "name": "wisemans_cave_north_entrance",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/wisemans_cave_north_entrance.png"
+  },
+  {
+    "name": "wisemans_cave_south_entrance",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/wisemans_cave_south_entrance.png"
+  },
+  {
+    "name": "wisemans_cave_b1f",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/wisemans_cave_b1f.png"
+  },
+  {
+    "name": "wisemans_cave_b2f",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/wisemans_cave_b2f.png"
+  },
+  {
     "name": "viridian_forest_north",
     "location_size": 12,
     "location_border_thickness": 2,

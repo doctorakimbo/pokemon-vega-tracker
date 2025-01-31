@@ -5,6 +5,273 @@
     "chest_opened_img": "images/locations/pokeball_bw.png",
     "children": [
       {
+        "name": "Wiseman's Cave",
+        "sections": [
+          {
+            "name": "B1F - Northeast Team DH Grunt Reward",
+            "chest_unopened_img": "images/locations/dh_male.png",
+            "chest_opened_img": "images/locations/dh_male_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B1F - Southeast Team DH Grunt Reward",
+            "chest_unopened_img": "images/locations/dh_female.png",
+            "chest_opened_img": "images/locations/dh_female_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B1F - South Team DH Grunt Reward",
+            "chest_unopened_img": "images/locations/dh_male.png",
+            "chest_opened_img": "images/locations/dh_male_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B1F - South Item",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B1F - West Item",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B1F - Between Ledges Team DH Grunt Reward",
+            "chest_unopened_img": "images/locations/dh_male.png",
+            "chest_opened_img": "images/locations/dh_male_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B1F - Teleport Loop (Event)",
+            "hosted_item": "wiseman_loop_hosted",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B1F - Hidden Item",
+            "chest_unopened_img": "images/locations/hidden_item.png",
+            "chest_opened_img": "images/locations/hidden_item_bw.png",
+            "access_rules": [
+              "^$hidden,TODO"
+            ],
+            "visibility_rules": [
+              "hidden_nonrecurring"
+            ]
+          },
+          {
+            "name": "B1F - Cutscene Team DH Grunt Reward",
+            "chest_unopened_img": "images/locations/dh_male.png",
+            "chest_opened_img": "images/locations/dh_male_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "South Entrance - Old Man Gift",
+            "chest_unopened_img": "images/locations/old_man_root_fossil.png",
+            "chest_opened_img": "images/locations/old_man_root_fossil_bw.png",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B2F - Pokemon Ranger Jackson Reward",
+            "chest_unopened_img": "images/locations/cooltrainer_male.png",
+            "chest_opened_img": "images/locations/cooltrainer_male_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Hiker Wayne Reward",
+            "chest_unopened_img": "images/locations/hiker.png",
+            "chest_opened_img": "images/locations/hiker_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Battle Girl Jocelyn Reward",
+            "chest_unopened_img": "images/locations/battle_girl.png",
+            "chest_opened_img": "images/locations/battle_girl_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Hiker Quincy Reward",
+            "chest_unopened_img": "images/locations/hiker.png",
+            "chest_opened_img": "images/locations/hiker_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Black Belt Hideki Reward",
+            "chest_unopened_img": "images/locations/black_belt.png",
+            "chest_opened_img": "images/locations/black_belt_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Expert Auron Reward",
+            "chest_unopened_img": "images/locations/old_man.png",
+            "chest_opened_img": "images/locations/old_man_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Southwest Item",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B2F - Poke Maniac Mark Reward",
+            "chest_unopened_img": "images/locations/super_nerd.png",
+            "chest_opened_img": "images/locations/super_nerd.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Pokemon Breeder Miles Reward",
+            "chest_unopened_img": "images/locations/man.png",
+            "chest_opened_img": "images/locations/man_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Crush Kin Ron & Mia Reward",
+            "chest_unopened_img": "images/locations/crush_kin.png",
+            "chest_opened_img": "images/locations/crush_kin_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - North Item",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B2F - Ace Trainer Harrison Reward",
+            "chest_unopened_img": "images/locations/cooltrainer_male.png",
+            "chest_opened_img": "images/locations/cooltrainer_male_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Ace Trainer Caroline Reward",
+            "chest_unopened_img": "images/locations/cooltrainer_female.png",
+            "chest_opened_img": "images/locations/cooltrainer_female_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "B2F - Defeat Avery Rematch (Event)",
+            "hosted_item": "defeat_avery_rematch_hosted",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B2F - Gym Leader Avery Rematch Reward",
+            "chest_unopened_img": "images/locations/avery.png",
+            "chest_opened_img": "images/locations/avery_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 123,
+            "y": 104,
+            "size": 4
+          },
+          {
+            "map": "route_503",
+            "x": 250,
+            "y": 903
+          },
+          {
+            "map": "route_503",
+            "x": 150,
+            "y": 1207
+          }
+        ]
+      },
+      {
         "name": "Viridian Forest",
         "access_rules": [
           "@Pewter City Access"

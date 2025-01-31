@@ -33,8 +33,8 @@
         "map_locations": [
           {
             "map": "porcelia_town",
-            "x": 89,
-            "y": 529
+            "x": 71,
+            "y": 423
           }
         ]
       },
@@ -53,8 +53,8 @@
         "map_locations": [
           {
             "map": "porcelia_town",
-            "x": 349,
-            "y": 329
+            "x": 279,
+            "y": 263
           }
         ]
       }

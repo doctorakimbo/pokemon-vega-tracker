@@ -28,8 +28,8 @@
         "map_locations": [
           {
             "map": "junopsis_city",
-            "x": 465,
-            "y": 190
+            "x": 375,
+            "y": 152
           }
         ]
       },
@@ -44,8 +44,8 @@
         "map_locations": [
           {
             "map": "junopsis_city",
-            "x": 605,
-            "y": 70
+            "x": 487,
+            "y": 56
           }
         ]
       },
@@ -60,8 +60,8 @@
         "map_locations": [
           {
             "map": "junopsis_city",
-            "x": 646,
-            "y": 507
+            "x": 519,
+            "y": 407
           }
         ]
       },
@@ -92,8 +92,8 @@
         "map_locations": [
           {
             "map": "junopsis_city",
-            "x": 646,
-            "y": 490
+            "x": 519,
+            "y": 392
           }
         ]
       }
