@@ -446,6 +446,71 @@
         ]
       },
       {
+        "name": "Route 505",
+        "access_rules": [
+          "TODO"
+        ],
+        "sections": [
+          {
+            "name": "Pokemon Breeder Cory Reward",
+            "chest_unopened_img": "images/locations/man.png",
+            "chest_opened_img": "images/locations/man_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Southwest Item"
+          },
+          {
+            "name": "Teammates Sara & Ivy Reward",
+            "chest_unopened_img": "images/locations/teammates.png",
+            "chest_opened_img": "images/locations/teammates_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Northeast Item"
+          },
+          {
+            "name": "Hidden Item",
+            "chest_unopened_img": "images/locations/hidden_item.png",
+            "chest_opened_img": "images/locations/hidden_item_bw.png",
+            "access_rules": [
+              "^$hidden"
+            ],
+            "visibility_rules": [
+              "hidden_nonrecurring"
+            ]
+          },
+          {
+            "name": "Skier Lisa Reward",
+            "chest_unopened_img": "images/locations/cooltrainer_female.png",
+            "chest_opened_img": "images/locations/cooltrainer_female_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Teammates Kate & Joy Reward",
+            "chest_unopened_img": "images/locations/teammates.png",
+            "chest_opened_img": "images/locations/teammates_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 103,
+            "y": 110,
+            "size": 4
+          }
+        ]
+      },
+      {
         "name": "Route 1",
         "sections": [
           {

@@ -1087,6 +1087,9 @@ TAB_MAPPING = {
     [812] = { -- Route 504
         [0] = {"Routes", "Route 504"}
     },
+    [791] = { -- Route 505
+        [0] = {"Routes", "Route 505"}
+    },
     [3840] = { -- Route 2 Viridian Forest South Entrance
         [0] = {"Routes", "Route 2", "South"}
     },
@@ -1102,9 +1105,6 @@ TAB_MAPPING = {
     },
     [4097] = { -- Route 4 Pokémon Center 2F
         [0] = {"Routes", "Route 4", "Pokémon Center", "2F"}
-    },
-    [791] = { -- Route 5
-        [0] = {"Routes", "Route 5", "Route"}
     },
     [4352] = { -- Route 5 Pokémon Day Care
         [0] = {"Routes", "Route 5", "Day Care"}

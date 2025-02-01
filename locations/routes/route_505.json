@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Route 505",
+    "children": [
+      {
+        "name": "Pokemon Breeder Cory",
+        "sections": [
+          {
+            "ref": "Routes/Route 505/Pokemon Breeder Cory Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_505",
+            "x": 250,
+            "y": 200
+          }
+        ]
+      },
+      {
+        "name": "Southwest Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 505/Southwest Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_505",
+            "x": 216,
+            "y": 520
+          }
+        ]
+      },
+      {
+        "name": "Teammates Sara & Ivy",
+        "sections": [
+          {
+            "ref": "Routes/Route 505/Teammates Sara & Ivy Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_505",
+            "x": 365,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "Northeast Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 505/Northeast Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_505",
+            "x": 600,
+            "y": 295
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 505/Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_505",
+            "x": 471,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Skier Lisa",
+        "sections": [
+          {
+            "ref": "Routes/Route 505/Skier Lisa Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_505",
+            "x": 487,
+            "y": 392
+          }
+        ]
+      },
+      {
+        "name": "Teammates Kate & Joy",
+        "sections": [
+          {
+            "ref": "Routes/Route 505/Teammates Kate & Joy Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_505",
+            "x": 460,
+            "y": 440
+          }
+        ]
+      }
+    ]
+  }
+]
