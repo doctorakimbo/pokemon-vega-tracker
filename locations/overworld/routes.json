@@ -341,6 +341,111 @@
         ]
       },
       {
+        "name": "Route 504",
+        "access_rules": [
+          "TODO"
+        ],
+        "sections": [
+          {
+            "name": "Youngster Joey Reward",
+            "chest_unopened_img": "images/locations/youngster.png",
+            "chest_opened_img": "images/locations/youngster_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Hidden Item In Rock",
+            "chest_unopened_img": "images/locations/hidden_item.png",
+            "chest_opened_img": "images/locations/hidden_item_bw.png",
+            "access_rules": [
+              "^$hidden"
+            ],
+            "visibility_rules": [
+              "hidden_nonrecurring"
+            ]
+          },
+          {
+            "name": "Hiker Trent Reward",
+            "chest_unopened_img": "images/locations/hiker.png",
+            "chest_opened_img": "images/locations/hiker_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Bug Catcher Doug Reward",
+            "chest_unopened_img": "images/locations/bug_catcher.png",
+            "chest_opened_img": "images/locations/bug_catcher_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Skier Mason Reward",
+            "chest_unopened_img": "images/locations/cooltrainer_male.png",
+            "chest_opened_img": "images/locations/cooltrainer_male_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Aroma Lady Nikki Reward",
+            "chest_unopened_img": "images/locations/woman_2.png",
+            "chest_opened_img": "images/locations/woman_2_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Poke Fan Colin Reward",
+            "chest_unopened_img": "images/locations/balding_man.png",
+            "chest_opened_img": "images/locations/balding_man_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Item"
+          },
+          {
+            "name": "Poke Fan Linda Reward",
+            "chest_unopened_img": "images/locations/channeler.png",
+            "chest_opened_img": "images/locations/channeler_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Skier Lydia Reward",
+            "chest_unopened_img": "images/locations/cooltrainer_female.png",
+            "chest_opened_img": "images/locations/cooltrainer_female_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Hidden Item In Bush",
+            "chest_unopened_img": "images/locations/hidden_item.png",
+            "chest_opened_img": "images/locations/hidden_item_bw.png",
+            "access_rules": [
+              "^$hidden"
+            ],
+            "visibility_rules": [
+              "hidden_nonrecurring"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 113,
+            "y": 104,
+            "size": 4
+          }
+        ]
+      },
+      {
         "name": "Route 1",
         "sections": [
           {

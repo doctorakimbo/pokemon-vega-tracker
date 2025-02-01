@@ -1308,6 +1308,15 @@
         }
       },
       {
+        "title": "Route 504",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route_504"
+          ]
+        }
+      },
+      {
         "title": "Route 1",
         "content": {
           "type": "map",

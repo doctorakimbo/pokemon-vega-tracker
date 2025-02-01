@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Route 504",
+    "children": [
+      {
+        "name": "Youngster Joey",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Youngster Joey Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 680,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item In Rock",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Hidden Item In Rock",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 648,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "Hiker Trent",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Hiker Trent Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 632,
+            "y": 232
+          }
+        ]
+      },
+      {
+        "name": "Bug Catcher Doug",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Bug Catcher Doug Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 505,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "Skier Mason",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Skier Mason Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 475,
+            "y": 122
+          }
+        ]
+      },
+      {
+        "name": "Aroma Lady Nikki",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Aroma Lady Nikki Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 282,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "name": "Poke Fan Colin",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Poke Fan Colin Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 55,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 25,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Poke Fan Linda",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Poke Fan Linda Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 230,
+            "y": 88
+          }
+        ]
+      },
+      {
+        "name": "Skier Lydia",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Skier Lydia Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 423,
+            "y": 232
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item In Bush",
+        "sections": [
+          {
+            "ref": "Routes/Route 504/Hidden Item In Bush",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_504",
+            "x": 456,
+            "y": 249
+          }
+        ]
+      }
+    ]
+  }
+]
