@@ -80,6 +80,15 @@
         }
       },
       {
+        "title": "Seafin City",
+        "content": {
+          "type": "map",
+          "maps": [
+            "seafin_city"
+          ]
+        }
+      },
+      {
         "title": "Pallet Town",
         "content": {
           "type": "tabbed",

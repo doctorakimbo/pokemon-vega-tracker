@@ -19,11 +19,11 @@
         ]
       },
 	  {
-        "name": "Woman in House",
+        "name": "House",
         "sections": [
           {
             "ref": "Routes/Route 501/Gift from Woman in House",
-            "name": "Gift"
+            "name": "Woman Gift"
           }
         ],
         "map_locations": [

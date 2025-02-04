@@ -72,14 +72,6 @@
             "chest_opened_img": "images/locations/balding_man_nugget_bw.png"
           },
           {
-            "name": "Black Belt Gift",
-            "chest_unopened_img": "images/locations/black_belt_focus_band.png",
-            "chest_opened_img": "images/locations/black_belt_focus_band_bw.png",
-            "access_rules": [
-              "$rock_smash"
-            ]
-          },
-          {
             "name": "Talk to Lass Outside Junopsis Gym (Event)",
             "hosted_item": "activate_winstrates_hosted",
             "visibility_rules": [
@@ -130,6 +122,14 @@
             "access_rules": [
               "TODO"
             ]
+          },
+          {
+            "name": "Black Belt Gift",
+            "chest_unopened_img": "images/locations/black_belt_focus_band.png",
+            "chest_opened_img": "images/locations/black_belt_focus_band_bw.png",
+            "access_rules": [
+              "$rock_smash"
+            ]
           }
         ],
         "map_locations": [
@@ -137,6 +137,108 @@
             "map": "tohoak",
             "x": 123,
             "y": 74
+          }
+        ]
+      },
+      {
+        "name": "Seafin City",
+        "access_rules": [
+          "TODO"
+        ],
+        "sections": [
+          {
+            "name": "Unlock Fly Destination",
+            "chest_unopened_img": "images/locations/fly_destination_unlock.png",
+            "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
+            "visibility_rules": [
+              "fly_destination_unlocks_on"
+            ]
+          },
+          {
+            "name": "Sadistic Woman Gift",
+            "chest_unopened_img": "images/locations/beauty_grass_tm.png",
+            "chest_opened_img": "images/locations/beauty_grass_tm_bw.png"
+          },
+          {
+            "name": "Rival Reward",
+            "chest_unopened_img": "images/locations/rival.png",
+            "chest_opened_img": "images/locations/rival_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Rival Gift",
+            "chest_unopened_img": "images/locations/rival_exp_share.png",
+            "chest_opened_img": "images/locations/rival_exp_share_bw.png"
+          },
+          {
+            "name": "Camper Drew Reward",
+            "chest_unopened_img": "images/locations/camper.png",
+            "chest_opened_img": "images/locations/camper_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Hiker Dudley Reward",
+            "chest_unopened_img": "images/locations/hiker.png",
+            "chest_opened_img": "images/locations/hiker_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Youngster Tyler Reward",
+            "chest_unopened_img": "images/locations/youngster.png",
+            "chest_opened_img": "images/locations/youngster_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Defeat Geoff (Event)",
+            "hosted_item": "defeat_geoff_hosted"
+          },
+          {
+            "name": "Gym Leader Geoff Reward",
+            "chest_unopened_img": "images/locations/geoff.png",
+            "chest_opened_img": "images/locations/geoff_bw.png",
+            "visibility_rules": [
+              "trainersanity_on"
+            ]
+          },
+          {
+            "name": "Seafin Gym Prize",
+            "chest_unopened_img": "images/locations/geoff_arneb_badge.png",
+            "chest_opened_img": "images/locations/geoff_arneb_badge_bw.png"
+          },
+          {
+            "name": "Geoff TM",
+            "chest_unopened_img": "images/locations/geoff_ground_tm.png",
+            "chest_opened_img": "images/locations/geoff_ground_tm_bw.png"
+          },
+          {
+            "name": "Give Letter to Scientist (Event)",
+            "hosted_item": "deliver_letter_hosted",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "Gift from Scientist (Postgame)",
+            "chest_unopened_img": "images/locations/scientist_dark_fossil.png",
+            "chest_opened_img": "images/locations/scientist_dark_fossil_bw.png",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 103,
+            "y": 124
           }
         ]
       },

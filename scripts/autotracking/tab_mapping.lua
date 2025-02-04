@@ -38,32 +38,41 @@ TAB_MAPPING = {
     [3841] = { -- Junopsis Trade House
         [0] = {"Cities", "Junopsis City"}
     },
+    [770] = { -- Seafin City
+        [0] = {"Cities", "Seafin City"}
+    },
+    [1536] = { -- Seafin Museum 1F
+        [0] = {"Cities", "Seafin City"}
+    },
+    [1537] = { -- Seafin Museum 2F
+        [0] = {"Cities", "Seafin City"}
+    },
+    [1539] = { -- Seafin Poké Mart
+        [0] = {"Cities", "Seafin City"}
+    },
+    [1541] = { -- Seafin Pokémon Center 1F
+        [0] = {"Cities", "Seafin City"}
+    },
+    [1542] = { -- Seafin Pokémon Center 2F
+        [0] = {"Cities", "Seafin City"}
+    },
+    [1543] = { -- Seafin Southeast House
+        [0] = {"Cities", "Seafin City"}
+    },
+    [2052] = { -- Name Rater's House
+        [0] = {"Cities", "Seafin City"}
+    },
+    [2576] = { -- Seafin Gym
+        [0] = {"Cities", "Seafin City"}
+    },
+    [9984] = { -- Seafin Northwest House
+        [0] = {"Cities", "Seafin City"}
+    },
     [1281] = { -- Viridian Gym
         [0] = {"Cities", "Viridian City", "Gym"}
     },
-    [770] = { -- Pewter City
-        [0] = {"Cities", "Pewter City", "Exterior"}
-    },
-    [1536] = { -- Pewter Museum 1F
-        [0] = {"Cities", "Pewter City", "Museum", "1F"}
-    },
-    [1537] = { -- Pewter Museum 2F
-        [0] = {"Cities", "Pewter City", "Museum", "2F"}
-    },
-    [1539] = { -- Pewter Poké Mart
-        [0] = {"Cities", "Pewter City", "Mart"}
-    },
     [1540] = { -- Pewter House 1
         [0] = {"Cities", "Pewter City", "Nidoran House"}
-    },
-    [1541] = { -- Pewter Pokémon Center 1F
-        [0] = {"Cities", "Pewter City", "Pokémon Center", "1F"}
-    },
-    [1542] = { -- Pewter Pokémon Center 2F
-        [0] = {"Cities", "Pewter City", "Pokémon Center", "2F"}
-    },
-    [1543] = { -- Pewter House 2
-        [0] = {"Cities", "Pewter City", "Info House"}
     },
     [771] = { -- Cerulean City
         [0] = {"Cities", "Cerulean City", "Exterior"}
@@ -140,9 +149,6 @@ TAB_MAPPING = {
     [2051] = { -- Lavender House 1
         [0] = {"Cities", "Lavender Town", "Cubone House"}
     },
-    [2052] = { -- Lavender House 2
-        [0] = {"Cities", "Lavender Town", "Name Rater's House"}
-    },
     [2053] = { -- Lavender Poké Mart
         [0] = {"Cities", "Lavender Town", "Mart"}
     },
@@ -196,9 +202,6 @@ TAB_MAPPING = {
     },
     [2575] = { -- Celadon Game Corner Prize Room
         [0] = {"Cities", "Celadon City", "Game Corner Prize Room"}
-    },
-    [2576] = { -- Celadon Gym
-        [0] = {"Cities", "Celadon City", "Gym"}
     },
     [2577] = { -- Celadon Restaurant
         [0] = {"Cities", "Celadon City", "Restaurant"}
@@ -812,9 +815,6 @@ TAB_MAPPING = {
     [822] = { -- Resort Gorgeous
         [0] = {"Islands", "Five Island", "Resort Gorgeous", "Resort", "West"},
         [1] = {"Islands", "Five Island", "Resort Gorgeous", "Resort", "East"}
-    },
-    [9984] = { -- Resort Gorgeous House
-        [0] = {"Islands", "Five Island", "Resort Gorgeous", "Selphy's House"}
     },
     [524] = { -- Lost Cave Entrance
         [0] = {"Islands", "Five Island", "Lost Cave", "Entrance"}

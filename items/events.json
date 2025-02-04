@@ -24,6 +24,18 @@
     "codes": "defeat_annette"
   },
   {
+    "name": "Defeat Geoff",
+    "type": "toggle",
+    "img": "images/events/geoff.png",
+    "codes": "defeat_geoff"
+  },
+  {
+    "name": "Give Letter to Scientist",
+    "type": "toggle",
+    "img": "images/events/scientist.png",
+    "codes": "deliver_letter"
+  },
+  {
     "name": "Defeat Avery Rematch",
     "type": "toggle",
     "img": "images/events/avery.png",

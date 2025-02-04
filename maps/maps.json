@@ -48,6 +48,12 @@
     "img": "images/maps/junopsis_city.png"
   },
   {
+    "name": "seafin_city",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/seafin_city.png"
+  },
+  {
     "name": "pallet_town",
     "location_size": 12,
     "location_border_thickness": 2,

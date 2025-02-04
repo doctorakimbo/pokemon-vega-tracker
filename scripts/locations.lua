@@ -1,6 +1,7 @@
 Tracker:AddLocations("locations/access.json")
-Tracker:AddLocations("locations/cities/porcelia_town.json")
 Tracker:AddLocations("locations/cities/junopsis_city.json")
+Tracker:AddLocations("locations/cities/porcelia_town.json")
+Tracker:AddLocations("locations/cities/seafin_city.json")
 Tracker:AddLocations("locations/cities/celadon_city.json")
 Tracker:AddLocations("locations/cities/cerulean_city.json")
 Tracker:AddLocations("locations/cities/cinnabar_island.json")

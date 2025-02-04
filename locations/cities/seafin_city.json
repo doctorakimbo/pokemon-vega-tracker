@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Seafin City",
+    "children": [
+      {
+        "name": "Visit",
+        "sections": [
+          {
+            "ref": "Cities/Seafin City/Unlock Fly Destination"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "seafin_city",
+            "x": 12,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Sadistic Woman",
+        "sections": [
+          {
+            "ref": "Cities/Seafin City/Sadistic Woman Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "seafin_city",
+            "x": 151,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Rival",
+        "sections": [
+          {
+            "ref": "Cities/Seafin City/Rival Reward",
+            "name": "Reward"
+          },
+          {
+            "ref": "Cities/Seafin City/Rival Gift",
+            "name": "Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "seafin_city",
+            "x": 247,
+            "y": 333
+          }
+        ]
+      },
+      {
+        "name": "Seafin Museum",
+        "sections": [
+          {
+            "ref": "Cities/Seafin City/Give Letter to Scientist (Event)",
+            "name": "2F - Give Letter to Scientist (Event)"
+          },
+          {
+            "ref": "Cities/Seafin City/Gift from Scientist (Postgame)",
+            "name": "1F - Gift from Scientist (Postgame)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "seafin_city",
+            "x": 312,
+            "y": 408
+          }
+        ]
+      },
+      {
+        "name": "Seafin Gym",
+        "sections": [
+          {
+            "ref": "Cities/Seafin City/Camper Drew Reward",
+            "name": "Camper Drew Reward"
+          },
+          {
+            "ref": "Cities/Seafin City/Hiker Dudley Reward",
+            "name": "Hiker Dudley Reward"
+          },
+          {
+            "ref": "Cities/Seafin City/Youngster Tyler Reward",
+            "name": "Youngster Tyler Reward"
+          },
+          {
+            "ref": "Cities/Seafin City/Defeat Geoff (Event)",
+            "name": "Defeat Geoff (Event)"
+          },
+          {
+            "ref": "Cities/Seafin City/Gym Leader Geoff Reward",
+            "name": "Gym Leader Geoff Reward"
+          },
+          {
+            "ref": "Cities/Seafin City/Seafin Gym Prize",
+            "name": "Seafin Gym Prize"
+          },
+          {
+            "ref": "Cities/Seafin City/Geoff TM",
+            "name": "Geoff TM"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "seafin_city",
+            "x": 327,
+            "y": 168
+          }
+        ]
+      }
+    ]
+  }
+]
