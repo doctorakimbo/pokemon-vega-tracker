@@ -6,6 +6,9 @@
     "children": [
       {
         "name": "Route 501",
+        "access_rules": [
+          "TODO"
+        ],
         "sections": [
           {
             "name": "Item"
@@ -70,6 +73,9 @@
       },
       {
         "name": "Route 502",
+        "access_rules": [
+          "TODO"
+        ],
         "sections": [
           {
             "name": "Gift from Man in West Corner",
