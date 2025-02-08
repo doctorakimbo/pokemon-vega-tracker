@@ -18,6 +18,22 @@
         ]
       },
       {
+        "name": "Pokemon Center",
+        "sections": [
+          {
+            "ref": "Cities/Seafin City/PC Item",
+            "name": "PC Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "seafin_city",
+            "x": 615,
+            "y": 246
+          }
+        ]
+      },
+      {
         "name": "Sadistic Woman",
         "sections": [
           {

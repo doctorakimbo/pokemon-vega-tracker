@@ -23,7 +23,7 @@
             "chest_unopened_img": "images/locations/pc_potion.png",
             "chest_opened_img": "images/locations/pc_potion_bw.png",
             "visibility_rules": [
-              "start_town_pallet"
+              "start_town_porcelia"
             ]
           },
           {
@@ -41,7 +41,7 @@
             "chest_unopened_img": "images/locations/rival.png",
             "chest_opened_img": "images/locations/rival_bw.png",
             "visibility_rules": [
-              "trainersanity_on,rival_oaks_lab"
+              "trainersanity_on,rival_hollys_lab"
             ]
           },
           {
@@ -72,7 +72,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_junopsis"
             ]
           },
           {
@@ -95,7 +103,7 @@
               "TODO"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_iris"
             ]
           },
           {
@@ -113,7 +121,7 @@
               "TODO"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,gym_leader_annette"
             ]
           },
           {
@@ -160,7 +168,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_seafin"
             ]
           },
           {
@@ -173,7 +189,7 @@
             "chest_unopened_img": "images/locations/rival.png",
             "chest_opened_img": "images/locations/rival_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,rival_seafin"
             ]
           },
           {
@@ -186,7 +202,7 @@
             "chest_unopened_img": "images/locations/camper.png",
             "chest_opened_img": "images/locations/camper_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,camper_drew"
             ]
           },
           {
@@ -194,7 +210,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,hiker_dudley"
             ]
           },
           {
@@ -202,7 +218,7 @@
             "chest_unopened_img": "images/locations/youngster.png",
             "chest_opened_img": "images/locations/youngster_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,youngster_tyler"
             ]
           },
           {
@@ -214,7 +230,7 @@
             "chest_unopened_img": "images/locations/geoff.png",
             "chest_opened_img": "images/locations/geoff_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,gym_leader_geoff"
             ]
           },
           {

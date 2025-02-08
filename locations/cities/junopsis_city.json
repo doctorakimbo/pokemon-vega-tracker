@@ -18,6 +18,22 @@
         ]
       },
       {
+        "name": "Pokemon Center",
+        "sections": [
+          {
+            "ref": "Cities/Junopsis City/PC Item",
+            "name": "PC Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "junopsis_city",
+            "x": 263,
+            "y": 199
+          }
+        ]
+      },
+      {
         "name": "Nugget Man",
         "sections": [
           {
