@@ -4,6 +4,7 @@
   "package_version": "1.0",
   "package_uid": "pokemon_vega",
   "author": "Dr. Akimbo",
+  "min_poptracker_version": "0.29.0",
   "variants": {
     "standard": {
       "display_name": "Map Tracker (Horizontal)",

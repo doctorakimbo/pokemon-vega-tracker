@@ -6,19 +6,25 @@
     "children": [
       {
         "name": "Porcelia Town",
+        "access_rules": [
+          "TODO"
+        ],
         "sections": [
           {
             "name": "Unlock Fly Destination",
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
             ]
           },
           {
             "name": "PC Item",
             "chest_unopened_img": "images/locations/pc_potion.png",
-            "chest_opened_img": "images/locations/pc_potion_bw.png"
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_pallet"
+            ]
           },
           {
             "name": "Gift from Mom 1",
@@ -35,7 +41,7 @@
             "chest_unopened_img": "images/locations/rival.png",
             "chest_opened_img": "images/locations/rival_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,rival_oaks_lab"
             ]
           },
           {
@@ -57,6 +63,9 @@
       },
       {
         "name": "Junopsis City",
+        "access_rules": [
+          "TODO"
+        ],
         "sections": [
           {
             "name": "Unlock Fly Destination",
@@ -244,13 +253,24 @@
       },
       {
         "name": "Viridian City",
+        "access_rules": [
+          "@Viridian City Access"
+        ],
         "sections": [
           {
             "name": "Unlock Fly Destination",
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_viridian"
             ]
           },
           {
@@ -311,7 +331,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,tamer_cole"
             ]
           },
           {
@@ -322,7 +342,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_kiyo"
             ]
           },
           {
@@ -333,7 +353,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_samuel"
             ]
           },
           {
@@ -344,7 +364,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_yuji"
             ]
           },
           {
@@ -355,7 +375,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_atsushi"
             ]
           },
           {
@@ -366,7 +386,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,tamer_jason"
             ]
           },
           {
@@ -377,7 +397,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_warren"
             ]
           },
           {
@@ -388,7 +408,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_takashi"
             ]
           },
           {
@@ -406,7 +426,7 @@
               "@Pewter City Access,$has_giovanni_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,leader_giovanni"
             ]
           },
           {
@@ -472,7 +492,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_pewter"
             ]
           },
           {
@@ -540,7 +568,7 @@
             "chest_unopened_img": "images/locations/camper.png",
             "chest_opened_img": "images/locations/camper_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,camper_liam"
             ]
           },
           {
@@ -552,7 +580,7 @@
             "chest_unopened_img": "images/locations/brock.png",
             "chest_opened_img": "images/locations/brock_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,leader_brock"
             ]
           },
           {
@@ -601,7 +629,15 @@
               "@Cerulean City Access"
             ],
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_cerulean"
             ]
           },
           {
@@ -642,7 +678,7 @@
               "@Cerulean City Access"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,rival_cerulean"
             ]
           },
           {
@@ -703,7 +739,7 @@
               "@Cerulean City Outskirts Access"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_5"
             ]
           },
           {
@@ -733,7 +769,7 @@
               "@Cerulean City Access"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,swimmer_luis"
             ]
           },
           {
@@ -755,7 +791,7 @@
               "@Cerulean City Access"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,picnicker_diana"
             ]
           },
           {
@@ -773,7 +809,7 @@
               "@Cerulean City Access"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,leader_misty"
             ]
           },
           {
@@ -828,7 +864,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_vermilion"
             ]
           },
           {
@@ -899,7 +943,7 @@
               "$surf"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,sailor_dwayne"
             ]
           },
           {
@@ -923,7 +967,7 @@
               "$surf"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,engineer_baily"
             ]
           },
           {
@@ -935,7 +979,7 @@
               "$surf"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,gentleman_tucker"
             ]
           },
           {
@@ -991,7 +1035,7 @@
               "$surf"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,leader_lt_surge"
             ]
           },
           {
@@ -1037,7 +1081,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_lavender"
             ]
           },
           {
@@ -1106,7 +1158,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_celadon"
             ]
           },
           {
@@ -1385,7 +1445,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_7"
             ]
           },
           {
@@ -1407,7 +1467,7 @@
               "$cut"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_kay"
             ]
           },
           {
@@ -1418,7 +1478,7 @@
               "$cut"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,beauty_bridget"
             ]
           },
           {
@@ -1429,7 +1489,7 @@
               "$cut"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,beauty_tamia"
             ]
           },
           {
@@ -1451,7 +1511,7 @@
               "$cut"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,picnicker_tina"
             ]
           },
           {
@@ -1462,7 +1522,7 @@
               "$cut"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_mary"
             ]
           },
           {
@@ -1473,7 +1533,7 @@
               "$cut"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,beauty_lori"
             ]
           },
           {
@@ -1484,7 +1544,7 @@
               "$cut"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_lisa"
             ]
           },
           {
@@ -1513,7 +1573,7 @@
               "$cut"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,leader_erika"
             ]
           },
           {
@@ -1579,7 +1639,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_fuchsia"
             ]
           },
           {
@@ -1669,7 +1737,7 @@
             "chest_unopened_img": "images/locations/rocker.png",
             "chest_opened_img": "images/locations/rocker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,juggler_nate"
             ]
           },
           {
@@ -1677,7 +1745,7 @@
             "chest_unopened_img": "images/locations/rocker.png",
             "chest_opened_img": "images/locations/rocker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,juggler_kayden"
             ]
           },
           {
@@ -1685,7 +1753,7 @@
             "chest_unopened_img": "images/locations/rocker.png",
             "chest_opened_img": "images/locations/rocker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,juggler_kirk"
             ]
           },
           {
@@ -1704,7 +1772,7 @@
             "chest_unopened_img": "images/locations/man.png",
             "chest_opened_img": "images/locations/man_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,tamer_edgar"
             ]
           },
           {
@@ -1712,7 +1780,7 @@
             "chest_unopened_img": "images/locations/man.png",
             "chest_opened_img": "images/locations/man_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,tamer_phil"
             ]
           },
           {
@@ -1720,7 +1788,7 @@
             "chest_unopened_img": "images/locations/rocker.png",
             "chest_opened_img": "images/locations/rocker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,juggler_shawn"
             ]
           },
           {
@@ -1732,7 +1800,7 @@
             "chest_unopened_img": "images/locations/koga.png",
             "chest_opened_img": "images/locations/koga_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,leader_koga"
             ]
           },
           {
@@ -1781,7 +1849,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_saffron"
             ]
           },
           {
@@ -1838,7 +1914,7 @@
             "chest_unopened_img": "images/locations/black_belt.png",
             "chest_opened_img": "images/locations/black_belt_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_hideki"
             ]
           },
           {
@@ -1846,7 +1922,7 @@
             "chest_unopened_img": "images/locations/black_belt.png",
             "chest_opened_img": "images/locations/black_belt_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_hitoshi"
             ]
           },
           {
@@ -1854,7 +1930,7 @@
             "chest_unopened_img": "images/locations/black_belt.png",
             "chest_opened_img": "images/locations/black_belt_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_mike"
             ]
           },
           {
@@ -1862,7 +1938,7 @@
             "chest_unopened_img": "images/locations/black_belt.png",
             "chest_opened_img": "images/locations/black_belt_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_aaron"
             ]
           },
           {
@@ -1870,7 +1946,7 @@
             "chest_unopened_img": "images/locations/black_belt.png",
             "chest_opened_img": "images/locations/black_belt_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_koichi"
             ]
           },
           {
@@ -1892,7 +1968,7 @@
               "$saffron_rockets"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,psychic_cameron"
             ]
           },
           {
@@ -1903,7 +1979,7 @@
               "$saffron_rockets"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_tasha"
             ]
           },
           {
@@ -1914,7 +1990,7 @@
               "$saffron_rockets"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,psychic_tyron"
             ]
           },
           {
@@ -1936,7 +2012,7 @@
               "$saffron_rockets"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_stacy"
             ]
           },
           {
@@ -1947,7 +2023,7 @@
               "$saffron_rockets"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,psychic_johan"
             ]
           },
           {
@@ -1958,7 +2034,7 @@
               "$saffron_rockets"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_amanda"
             ]
           },
           {
@@ -1969,7 +2045,7 @@
               "$saffron_rockets"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,psychic_preston"
             ]
           },
           {
@@ -1987,7 +2063,7 @@
               "$saffron_rockets"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,leader_sabrina"
             ]
           },
           {
@@ -2053,7 +2129,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_some"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_cinnabar"
             ]
           },
           {
@@ -2117,7 +2201,7 @@
               "secret_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,burglar_quinn"
             ]
           },
           {
@@ -2128,7 +2212,7 @@
               "secret_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,super_nerd_erik"
             ]
           },
           {
@@ -2139,7 +2223,7 @@
               "secret_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,super_nerd_avery"
             ]
           },
           {
@@ -2150,7 +2234,7 @@
               "secret_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,burglar_ramon"
             ]
           },
           {
@@ -2161,7 +2245,7 @@
               "secret_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,super_nerd_derek"
             ]
           },
           {
@@ -2183,7 +2267,7 @@
               "secret_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,burglar_dusty"
             ]
           },
           {
@@ -2194,7 +2278,7 @@
               "secret_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,super_nerd_zac"
             ]
           },
           {
@@ -2212,7 +2296,7 @@
               "secret_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,leader_blaine"
             ]
           },
           {
@@ -2289,7 +2373,15 @@
             "chest_unopened_img": "images/locations/fly_destination_unlock.png",
             "chest_opened_img": "images/locations/fly_destination_unlock_bw.png",
             "visibility_rules": [
-              "fly_destination_unlocks_on"
+              "fly_destination_unlocks_all"
+            ]
+          },
+          {
+            "name": "PC Item",
+            "chest_unopened_img": "images/locations/pc_potion.png",
+            "chest_opened_img": "images/locations/pc_potion_bw.png",
+            "visibility_rules": [
+              "start_town_indigo"
             ]
           },
           {
@@ -2366,7 +2458,7 @@
               "$has_e4_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,elite_four_lorelei"
             ]
           },
           {
@@ -2399,7 +2491,7 @@
               "$has_e4_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,elite_four_bruno"
             ]
           },
           {
@@ -2443,7 +2535,7 @@
               "$has_e4_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,elite_four_agatha"
             ]
           },
           {
@@ -2476,7 +2568,7 @@
               "$has_e4_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,elite_four_lance"
             ]
           },
           {
@@ -2494,7 +2586,7 @@
               "$has_e4_req"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,champion"
             ]
           },
           {
@@ -2521,7 +2613,7 @@
               "$has_e4_rematch_req,defeat_champion,restore_pokemon_network_machine"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,elite_four_lorelei_rematch"
             ]
           },
           {
@@ -2532,7 +2624,7 @@
               "$has_e4_rematch_req,defeat_champion,restore_pokemon_network_machine"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,elite_four_bruno_rematch"
             ]
           },
           {
@@ -2543,7 +2635,7 @@
               "$has_e4_rematch_req,defeat_champion,restore_pokemon_network_machine"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,elite_four_agatha_rematch"
             ]
           },
           {
@@ -2554,7 +2646,7 @@
               "$has_e4_rematch_req,defeat_champion,restore_pokemon_network_machine"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,elite_four_lance_rematch"
             ]
           },
           {
@@ -2572,7 +2664,7 @@
               "$has_e4_rematch_req,defeat_champion,restore_pokemon_network_machine"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,champion_rematch"
             ]
           }
         ],

@@ -299,7 +299,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_rick"
             ]
           },
           {
@@ -307,7 +307,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_doug"
             ]
           },
           {
@@ -318,7 +318,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_anthony"
             ]
           },
           {
@@ -326,7 +326,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_charlie"
             ]
           },
           {
@@ -337,7 +337,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_sammy"
             ]
           },
           {
@@ -391,7 +391,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_kent"
             ]
           },
           {
@@ -402,7 +402,7 @@
             "chest_unopened_img": "images/locations/lass.png",
             "chest_opened_img": "images/locations/lass_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_iris"
             ]
           },
           {
@@ -443,7 +443,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_2"
             ]
           },
           {
@@ -454,7 +454,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,super_nerd_jovan"
             ]
           },
           {
@@ -465,7 +465,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_robby"
             ]
           },
           {
@@ -490,7 +490,7 @@
             "chest_unopened_img": "images/locations/lass.png",
             "chest_opened_img": "images/locations/lass_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_miriam"
             ]
           },
           {
@@ -509,7 +509,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_3"
             ]
           },
           {
@@ -531,7 +531,7 @@
             "chest_unopened_img": "images/locations/youngster.png",
             "chest_opened_img": "images/locations/youngster_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,youngster_josh"
             ]
           },
           {
@@ -539,7 +539,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,hiker_marcos"
             ]
           },
           {
@@ -564,7 +564,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_4"
             ]
           },
           {
@@ -572,7 +572,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_1"
             ]
           },
           {
@@ -591,7 +591,7 @@
             "chest_unopened_img": "images/locations/super_nerd.png",
             "chest_opened_img": "images/locations/super_nerd_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,super_nerd_miguel"
             ]
           },
           {
@@ -811,7 +811,7 @@
             "chest_unopened_img": "images/locations/youngster.png",
             "chest_opened_img": "images/locations/youngster_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,youngster_tyler"
             ]
           },
           {
@@ -819,7 +819,7 @@
             "chest_unopened_img": "images/locations/lass.png",
             "chest_opened_img": "images/locations/lass_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_ann"
             ]
           },
           {
@@ -830,7 +830,7 @@
             "chest_unopened_img": "images/locations/gentleman.png",
             "chest_opened_img": "images/locations/gentleman_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,gentleman_arthur"
             ]
           },
           {
@@ -838,7 +838,7 @@
             "chest_unopened_img": "images/locations/gentleman.png",
             "chest_opened_img": "images/locations/gentleman_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,gentleman_thomas"
             ]
           },
           {
@@ -857,7 +857,7 @@
             "chest_unopened_img": "images/locations/sailor.png",
             "chest_opened_img": "images/locations/sailor_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,sailor_phillip"
             ]
           },
           {
@@ -865,7 +865,7 @@
             "chest_unopened_img": "images/locations/fisherman.png",
             "chest_opened_img": "images/locations/fisherman_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,fisherman_barny"
             ]
           },
           {
@@ -873,7 +873,7 @@
             "chest_unopened_img": "images/locations/sailor.png",
             "chest_opened_img": "images/locations/sailor_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,sailor_huey"
             ]
           },
           {
@@ -884,7 +884,7 @@
             "chest_unopened_img": "images/locations/sailor.png",
             "chest_opened_img": "images/locations/sailor_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,sailor_dylan"
             ]
           },
           {
@@ -895,7 +895,7 @@
             "chest_unopened_img": "images/locations/sailor.png",
             "chest_opened_img": "images/locations/sailor_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,sailor_leonard"
             ]
           },
           {
@@ -903,7 +903,7 @@
             "chest_unopened_img": "images/locations/sailor.png",
             "chest_opened_img": "images/locations/sailor_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,sailor_duncan"
             ]
           },
           {
@@ -914,7 +914,7 @@
             "chest_unopened_img": "images/locations/sailor.png",
             "chest_opened_img": "images/locations/sailor_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,sailor_trevor"
             ]
           },
           {
@@ -922,7 +922,7 @@
             "chest_unopened_img": "images/locations/sailor.png",
             "chest_opened_img": "images/locations/sailor_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,sailor_edmond"
             ]
           },
           {
@@ -930,7 +930,7 @@
             "chest_unopened_img": "images/locations/fisherman.png",
             "chest_opened_img": "images/locations/fisherman_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,fisherman_dale"
             ]
           },
           {
@@ -938,7 +938,7 @@
             "chest_unopened_img": "images/locations/gentleman.png",
             "chest_opened_img": "images/locations/gentleman_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,gentleman_brooks"
             ]
           },
           {
@@ -949,7 +949,7 @@
             "chest_unopened_img": "images/locations/gentleman.png",
             "chest_opened_img": "images/locations/gentleman_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,gentleman_lamar"
             ]
           },
           {
@@ -957,7 +957,7 @@
             "chest_unopened_img": "images/locations/lass.png",
             "chest_opened_img": "images/locations/lass_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_dawn"
             ]
           },
           {
@@ -968,7 +968,7 @@
             "chest_unopened_img": "images/locations/rival.png",
             "chest_opened_img": "images/locations/rival_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,rival_ss_anne"
             ]
           },
           {
@@ -1011,7 +1011,7 @@
             "chest_unopened_img": "images/locations/super_nerd.png",
             "chest_opened_img": "images/locations/super_nerd_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemaniac_ashton"
             ]
           },
           {
@@ -1019,7 +1019,7 @@
             "chest_unopened_img": "images/locations/super_nerd.png",
             "chest_opened_img": "images/locations/super_nerd_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemaniac_winston"
             ]
           },
           {
@@ -1030,7 +1030,7 @@
             "chest_unopened_img": "images/locations/picnicker.png",
             "chest_opened_img": "images/locations/picnicker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,picnicker_martha"
             ]
           },
           {
@@ -1038,7 +1038,7 @@
             "chest_unopened_img": "images/locations/super_nerd.png",
             "chest_opened_img": "images/locations/super_nerd_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemaniac_steve"
             ]
           },
           {
@@ -1046,7 +1046,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,hiker_allen"
             ]
           },
           {
@@ -1054,7 +1054,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,hiker_eric"
             ]
           },
           {
@@ -1062,7 +1062,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,hiker_lenny"
             ]
           },
           {
@@ -1070,7 +1070,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,hiker_oliver"
             ]
           },
           {
@@ -1081,7 +1081,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,hiker_lucas"
             ]
           },
           {
@@ -1089,7 +1089,7 @@
             "chest_unopened_img": "images/locations/picnicker.png",
             "chest_opened_img": "images/locations/picnicker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,picnicker_sofia"
             ]
           },
           {
@@ -1100,7 +1100,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,hiker_dudley"
             ]
           },
           {
@@ -1108,7 +1108,7 @@
             "chest_unopened_img": "images/locations/super_nerd.png",
             "chest_opened_img": "images/locations/super_nerd_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemaniac_cooper"
             ]
           },
           {
@@ -1116,7 +1116,7 @@
             "chest_unopened_img": "images/locations/picnicker.png",
             "chest_opened_img": "images/locations/picnicker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,picnicker_leah"
             ]
           },
           {
@@ -1124,7 +1124,7 @@
             "chest_unopened_img": "images/locations/picnicker.png",
             "chest_opened_img": "images/locations/picnicker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,picnicker_ariana"
             ]
           },
           {
@@ -1135,7 +1135,7 @@
             "chest_unopened_img": "images/locations/picnicker.png",
             "chest_opened_img": "images/locations/picnicker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,picnicker_dana"
             ]
           }
         ],
@@ -1240,7 +1240,7 @@
             "chest_unopened_img": "images/locations/rival.png",
             "chest_opened_img": "images/locations/rival_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,rival_pokemon_tower"
             ]
           },
           {
@@ -1248,7 +1248,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_hope"
             ]
           },
           {
@@ -1259,7 +1259,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_patricia"
             ]
           },
           {
@@ -1267,7 +1267,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_carly"
             ]
           },
           {
@@ -1275,7 +1275,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_laurel"
             ]
           },
           {
@@ -1289,7 +1289,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_jody"
             ]
           },
           {
@@ -1300,7 +1300,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_paula"
             ]
           },
           {
@@ -1308,7 +1308,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_ruth"
             ]
           },
           {
@@ -1327,7 +1327,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_tammy"
             ]
           },
           {
@@ -1338,7 +1338,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_karina"
             ]
           },
           {
@@ -1346,7 +1346,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_janae"
             ]
           },
           {
@@ -1357,7 +1357,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_angelica"
             ]
           },
           {
@@ -1368,7 +1368,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_jennifer"
             ]
           },
           {
@@ -1376,7 +1376,7 @@
             "chest_unopened_img": "images/locations/channeler.png",
             "chest_opened_img": "images/locations/channeler_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,channeler_emilia"
             ]
           },
           {
@@ -1390,7 +1390,7 @@
               "silph_scope"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_19"
             ]
           },
           {
@@ -1401,7 +1401,7 @@
               "silph_scope"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_20"
             ]
           },
           {
@@ -1423,7 +1423,7 @@
               "silph_scope"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_21"
             ]
           },
           {
@@ -1586,7 +1586,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_9"
             ]
           },
           {
@@ -1608,7 +1608,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_8"
             ]
           },
           {
@@ -1616,7 +1616,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_13"
             ]
           },
           {
@@ -1636,7 +1636,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_11"
             ]
           },
           {
@@ -1644,7 +1644,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_10"
             ]
           },
           {
@@ -1655,7 +1655,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_15"
             ]
           },
           {
@@ -1680,7 +1680,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_14"
             ]
           },
           {
@@ -1697,7 +1697,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_18"
             ]
           },
           {
@@ -1717,7 +1717,7 @@
               "lift_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_16"
             ]
           },
           {
@@ -1728,7 +1728,7 @@
               "lift_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_17"
             ]
           },
           {
@@ -1750,7 +1750,7 @@
               "lift_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,boss_giovanni_hideout"
             ]
           },
           {
@@ -1789,7 +1789,7 @@
               "lift_key"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_12"
             ]
           }
         ],
@@ -1934,7 +1934,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_24"
             ]
           },
           {
@@ -1942,7 +1942,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_23"
             ]
           },
           {
@@ -1950,7 +1950,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_jerry"
             ]
           },
           {
@@ -1965,7 +1965,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_connor"
             ]
           },
           {
@@ -1984,7 +1984,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_25"
             ]
           },
           {
@@ -2015,7 +2015,7 @@
               "card_key_9f"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_jose"
             ]
           },
           {
@@ -2031,7 +2031,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_27"
             ]
           },
           {
@@ -2053,7 +2053,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_26"
             ]
           },
           {
@@ -2068,7 +2068,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_rodney"
             ]
           },
           {
@@ -2097,7 +2097,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_29"
             ]
           },
           {
@@ -2116,7 +2116,7 @@
             "chest_unopened_img": "images/locations/rocker.png",
             "chest_opened_img": "images/locations/rocker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,juggler_dalton"
             ]
           },
           {
@@ -2136,7 +2136,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_beau"
             ]
           },
           {
@@ -2144,7 +2144,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_28"
             ]
           },
           {
@@ -2177,7 +2177,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_30"
             ]
           },
           {
@@ -2203,7 +2203,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_taylor"
             ]
           },
           {
@@ -2211,7 +2211,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_31"
             ]
           },
           {
@@ -2233,7 +2233,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_33"
             ]
           },
           {
@@ -2241,7 +2241,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_35"
             ]
           },
           {
@@ -2249,7 +2249,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_joshua"
             ]
           },
           {
@@ -2260,7 +2260,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_34"
             ]
           },
           {
@@ -2291,7 +2291,16 @@
               "card_key_3f"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,rival_silph"
+            ]
+          },
+          {
+            "name": "7F - Rival Gift",
+            "chest_unopened_img": "images/locations/rival_link_cable.png",
+            "chest_opened_img": "images/locations/rival_link_cable_bw.png",
+            "access_rules": [
+              "card_key",
+              "card_key_3f"
             ]
           },
           {
@@ -2310,7 +2319,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_32"
             ]
           },
           {
@@ -2318,7 +2327,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_36"
             ]
           },
           {
@@ -2326,7 +2335,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_parker"
             ]
           },
           {
@@ -2366,7 +2375,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_ed"
             ]
           },
           {
@@ -2374,7 +2383,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_38"
             ]
           },
           {
@@ -2411,7 +2420,7 @@
               "card_key_9f"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_37"
             ]
           },
           {
@@ -2431,7 +2440,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_travis"
             ]
           },
           {
@@ -2439,7 +2448,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_39"
             ]
           },
           {
@@ -2474,7 +2483,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_40"
             ]
           },
           {
@@ -2489,7 +2498,7 @@
               "card_key_3f"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_41"
             ]
           },
           {
@@ -2532,7 +2541,7 @@
               "card_key_3f,card_key_11f"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,boss_giovanni_silph"
             ]
           },
           {
@@ -2568,7 +2577,7 @@
       {
         "name": "Seafoam Islands",
         "access_rules": [
-          "$surf"
+          "@Cinnabar Island Access,$surf"
         ],
         "sections": [
           {
@@ -2657,7 +2666,7 @@
             "chest_unopened_img": "images/locations/youngster.png",
             "chest_opened_img": "images/locations/youngster_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,youngster_johnson"
             ]
           },
           {
@@ -2671,7 +2680,7 @@
             "chest_unopened_img": "images/locations/super_nerd.png",
             "chest_opened_img": "images/locations/super_nerd_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,burglar_simon"
             ]
           },
           {
@@ -2682,7 +2691,7 @@
             "chest_unopened_img": "images/locations/super_nerd.png",
             "chest_opened_img": "images/locations/super_nerd_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,burglar_arnie"
             ]
           },
           {
@@ -2699,7 +2708,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_braydon"
             ]
           },
           {
@@ -2721,7 +2730,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_ted"
             ]
           },
           {
@@ -2732,7 +2741,7 @@
             "chest_unopened_img": "images/locations/super_nerd.png",
             "chest_opened_img": "images/locations/super_nerd_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,burglar_lewis"
             ]
           },
           {
@@ -2743,7 +2752,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_ivan"
             ]
           },
           {
@@ -2802,7 +2811,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_naomi"
             ]
           },
           {
@@ -2852,7 +2861,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_rolando"
             ]
           },
           {
@@ -2864,7 +2873,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,black_belt_daisuke"
             ]
           },
           {
@@ -2883,7 +2892,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,juggler_nelson"
             ]
           },
           {
@@ -2902,7 +2911,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,tamer_vincent"
             ]
           },
           {
@@ -2914,7 +2923,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,juggler_gregory"
             ]
           },
           {
@@ -2933,7 +2942,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_george"
             ]
           },
           {
@@ -2959,7 +2968,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemaniac_dawson"
             ]
           },
           {
@@ -2978,7 +2987,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_alexa"
             ]
           },
           {
@@ -2990,7 +2999,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_colby"
             ]
           },
           {
@@ -3002,7 +3011,7 @@
               "@Indigo Plateau Access,$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cooltrainer_caroline"
             ]
           },
           {
@@ -3013,7 +3022,7 @@
               "@Indigo Plateau Access"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,cool_couple_ray_and_tyra"
             ]
           }
         ],
@@ -3059,7 +3068,7 @@
               "$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemon_ranger_beth"
             ]
           },
           {
@@ -3081,7 +3090,7 @@
               "$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemon_ranger_logan"
             ]
           },
           {
@@ -3092,7 +3101,7 @@
               "$strength"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,crush_girl_jocelyn"
             ]
           },
           {
@@ -3139,7 +3148,7 @@
               "deliver_meteorite"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_43"
             ]
           },
           {
@@ -3150,7 +3159,7 @@
               "deliver_meteorite"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_44"
             ]
           },
           {
@@ -3412,7 +3421,7 @@
               "$waterfall"
             ],
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_45"
             ]
           },
           {
@@ -3471,7 +3480,7 @@
             "chest_unopened_img": "images/locations/rocket_female.png",
             "chest_opened_img": "images/locations/rocket_female_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_42"
             ]
           },
           {
@@ -3479,7 +3488,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_47"
             ]
           },
           {
@@ -3501,7 +3510,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_grunt_48"
             ]
           },
           {
@@ -3509,7 +3518,7 @@
             "chest_unopened_img": "images/locations/rocket_female.png",
             "chest_opened_img": "images/locations/rocket_female_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_admin_1"
             ]
           },
           {
@@ -3521,7 +3530,7 @@
             "chest_unopened_img": "images/locations/rocket_male.png",
             "chest_opened_img": "images/locations/rocket_male_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,team_rocket_admin_2"
             ]
           },
           {
@@ -3529,7 +3538,7 @@
             "chest_unopened_img": "images/locations/scientist.png",
             "chest_opened_img": "images/locations/scientist_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,scientist_gideon"
             ]
           },
           {
@@ -3594,7 +3603,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,ruin_maniac_lawson"
             ]
           },
           {
@@ -3605,7 +3614,7 @@
             "chest_unopened_img": "images/locations/woman.png",
             "chest_opened_img": "images/locations/woman_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,psychic_laura"
             ]
           },
           {
@@ -3626,7 +3635,7 @@
             "chest_unopened_img": "images/locations/woman_2.png",
             "chest_opened_img": "images/locations/woman_2_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lady_selphy"
             ]
           },
           {
@@ -3667,7 +3676,7 @@
             "chest_unopened_img": "images/locations/youngster.png",
             "chest_opened_img": "images/locations/youngster_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,youngster_cordell"
             ]
           },
           {
@@ -3675,7 +3684,7 @@
             "chest_unopened_img": "images/locations/woman_2.png",
             "chest_opened_img": "images/locations/woman_2_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemon_breeder_bethany"
             ]
           },
           {
@@ -3683,7 +3692,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_garret"
             ]
           },
           {
@@ -3691,7 +3700,7 @@
             "chest_unopened_img": "images/locations/lass.png",
             "chest_opened_img": "images/locations/lass_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_joana"
             ]
           },
           {
@@ -3699,7 +3708,7 @@
             "chest_unopened_img": "images/locations/youngster.png",
             "chest_opened_img": "images/locations/youngster_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,youngster_nash"
             ]
           },
           {
@@ -3707,7 +3716,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_vance"
             ]
           },
           {
@@ -3715,7 +3724,7 @@
             "chest_unopened_img": "images/locations/hiker.png",
             "chest_opened_img": "images/locations/hiker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,ruin_maniac_layton"
             ]
           },
           {
@@ -3723,7 +3732,7 @@
             "chest_unopened_img": "images/locations/picnicker.png",
             "chest_opened_img": "images/locations/picnicker_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,picnicker_marcy"
             ]
           },
           {
@@ -3731,7 +3740,7 @@
             "chest_unopened_img": "images/locations/lass.png",
             "chest_opened_img": "images/locations/lass_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,lass_dalia"
             ]
           },
           {
@@ -3739,7 +3748,7 @@
             "chest_unopened_img": "images/locations/bug_catcher.png",
             "chest_opened_img": "images/locations/bug_catcher_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,bug_catcher_jonah"
             ]
           },
           {
@@ -3747,7 +3756,7 @@
             "chest_unopened_img": "images/locations/woman_2.png",
             "chest_opened_img": "images/locations/woman_2_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,pokemon_breeder_allison"
             ]
           },
           {
@@ -3755,7 +3764,7 @@
             "chest_unopened_img": "images/locations/camper.png",
             "chest_opened_img": "images/locations/camper_bw.png",
             "visibility_rules": [
-              "trainersanity_on"
+              "trainersanity_on,camper_riley"
             ]
           }
         ],
