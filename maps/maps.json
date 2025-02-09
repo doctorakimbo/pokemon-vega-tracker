@@ -726,6 +726,24 @@
     "img": "images/maps/wisemans_cave_b2f.png"
   },
   {
+    "name": "spirit_mansion_1f",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/spirit_mansion_1f.png"
+  },
+  {
+    "name": "spirit_mansion_2f",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/spirit_mansion_2f.png"
+  },
+  {
+    "name": "spirit_mansion_b1f",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/spirit_mansion_b1f.png"
+  },
+  {
     "name": "viridian_forest_north",
     "location_size": 12,
     "location_border_thickness": 2,

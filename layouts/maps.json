@@ -2402,6 +2402,42 @@
         }
       },
       {
+        "title": "Spirit Mansion",
+        "content": {
+          "type": "tabbed",
+          "dock": "top",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "spirit_mansion_1f"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "spirit_mansion_2f"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "spirit_mansion_b1f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
         "title": "Viridian Forest",
         "content": {
           "type": "tabbed",

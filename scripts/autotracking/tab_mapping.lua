@@ -341,6 +341,15 @@ TAB_MAPPING = {
     [329] = { -- Wiseman's Cave B1F
     	[0] = {"Dungeons", "Wiseman's Cave", "B1F"}
     },
+    [315] = { -- Spirit Mansion 1F
+        [0] = {"Dungeons", "Spirit Mansion", "1F"}
+    },
+    [316] = { -- Spirit Mansion 2F
+        [0] = {"Dungeons", "Spirit Mansion", "2F"}
+    },
+    [317] = { -- Spirit Mansion B1F
+        [0] = {"Dungeons", "Spirit Mansion", "B1F"}
+    },
     [3840] = { -- Route 2 Viridian Forest South Entrance
         [0] = {"Dungeons", "Viridian Forest", "South Entrance"}
     },
@@ -577,15 +586,6 @@ TAB_MAPPING = {
     },
     [343] = { -- Seafoam Islands B4F
         [0] = {"Dungeons", "Seafoam Islands", "B4F"}
-    },
-    [315] = { -- Pokémon Mansion 1F
-        [0] = {"Dungeons", "Pokémon Mansion", "1F"}
-    },
-    [316] = { -- Pokémon Mansion 2F
-        [0] = {"Dungeons", "Pokémon Mansion", "2F"}
-    },
-    [317] = { -- Pokémon Mansion 3F
-        [0] = {"Dungeons", "Pokémon Mansion", "3F"}
     },
     [318] = { -- Pokémon Mansion B1F
         [0] = {"Dungeons", "Pokémon Mansion", "B1F"}

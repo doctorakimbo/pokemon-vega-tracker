@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Spirit Mansion 1F",
+    "children": [
+      {
+        "name": "Burglar Quinn",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/1F - Burglar Quinn Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_1f",
+            "x": 185,
+            "y": 248
+          }
+        ]
+      },
+      {
+        "name": "Southwest Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/1F - Southwest Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_1f",
+            "x": 248,
+            "y": 385
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/1F - Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_1f",
+            "x": 25,
+            "y": 232
+          }
+        ]
+      },
+      {
+        "name": "Collector Julio",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/1F - Collector Julio Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_1f",
+            "x": 427,
+            "y": 73
+          }
+        ]
+      },
+      {
+        "name": "Northeast Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/1F - Northeast Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_1f",
+            "x": 567,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Super Nerd Miguel",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/1F - Super Nerd Miguel Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_1f",
+            "x": 425,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Southeast Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/1F - Southeast Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_1f",
+            "x": 552,
+            "y": 472
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spirit Mansion 2F",
+    "children": [
+      {
+        "name": "Engineer Braxton",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/2F - Engineer Braxton Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_2f",
+            "x": 167,
+            "y": 551
+          }
+        ]
+      },
+      {
+        "name": "South Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/2F - South Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_2f",
+            "x": 375,
+            "y": 585
+          }
+        ]
+      },
+      {
+        "name": "Northwest Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/2F - Northwest Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_2f",
+            "x": 73,
+            "y": 107
+          }
+        ]
+      },
+      {
+        "name": "Super Nerd Jovan",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/2F - Super Nerd Jovan Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_2f",
+            "x": 407,
+            "y": 102
+          }
+        ]
+      },
+      {
+        "name": "Northeast Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/2F - Northeast Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_2f",
+            "x": 185,
+            "y": 73
+          }
+        ]
+      },
+      {
+        "name": "Mewtwo Statue",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/2F - Inspect Back of Statue",
+            "name": "Inspect From Behind"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_2f",
+            "x": 263,
+            "y": 454
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spirit Mansion B1F",
+    "children": [
+      {
+        "name": "Collector Wade",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Collector Wade Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_b1f",
+            "x": 88,
+            "y": 220
+          }
+        ]
+      },
+      {
+        "name": "Young Couple Gia & Jes",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Young Couple Gia & Jes Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_b1f",
+            "x": 240,
+            "y": 280
+          }
+        ]
+      },
+      {
+        "name": "Gambler Hugo",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Gambler Hugo Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_b1f",
+            "x": 583,
+            "y": 105
+          }
+        ]
+      },
+      {
+        "name": "Item",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_b1f",
+            "x": 492,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Engineer Baily",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Engineer Baily Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_b1f",
+            "x": 438,
+            "y": 455
+          }
+        ]
+      },
+      {
+        "name": "Pokemon Ranger Madeline",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Pokemon Ranger Madeline Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_b1f",
+            "x": 232,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "name": "Teammates Anna & Meg",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Teammates Anna & Meg Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_b1f",
+            "x": 63,
+            "y": 423
+          }
+        ]
+      },
+      {
+        "name": "Gym Leader Geoff",
+        "sections": [
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Defeat Geoff Rematch (Event)",
+            "name": "Defeat Geoff Rematch (Event)"
+          },
+          {
+            "ref": "Dungeons/Spirit Mansion/B1F - Gym Leader Geoff Rematch Reward",
+            "name": "Gym Leader Geoff Rematch Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_mansion_b1f",
+            "x": 570,
+            "y": 375
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -272,6 +272,191 @@
         ]
       },
       {
+        "name": "Spirit Mansion",
+        "access_rules": [
+          "TODO"
+        ],
+        "sections": [
+          {
+            "name": "2F - Engineer Braxton Reward",
+            "chest_unopened_img": "images/locations/balding_man.png",
+            "chest_opened_img": "images/locations/balding_man_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,engineer_braxton"
+            ]
+          },
+          {
+            "name": "2F - South Item"
+          },
+          {
+            "name": "1F - Burglar Quinn Reward",
+            "chest_unopened_img": "images/locations/balding_man.png",
+            "chest_opened_img": "images/locations/balding_man_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,burglar_quinn"
+            ]
+          },
+          {
+            "name": "1F - Southwest Item"
+          },
+          {
+            "name": "2F - Northwest Item"
+          },
+          {
+            "name": "1F - Hidden Item",
+            "chest_unopened_img": "images/locations/hidden_item.png",
+            "chest_opened_img": "images/locations/hidden_item_bw.png",
+            "access_rules": [
+              "^$hidden"
+            ],
+            "visibility_rules": [
+              "hidden_nonrecurring"
+            ]
+          },
+          {
+            "name": "1F - Collector Julio Reward",
+            "chest_unopened_img": "images/locations/super_nerd.png",
+            "chest_opened_img": "images/locations/super_nerd_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,collector_julio"
+            ]
+          },
+          {
+            "name": "1F - Northeast Item"
+          },
+          {
+            "name": "2F - Super Nerd Jovan Reward",
+            "chest_unopened_img": "images/locations/super_nerd.png",
+            "chest_opened_img": "images/locations/super_nerd_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,super_nerd_jovan"
+            ]
+          },
+          {
+            "name": "2F - Northeast Item"
+          },
+          {
+            "name": "1F - Super Nerd Miguel Reward",
+            "chest_unopened_img": "images/locations/super_nerd.png",
+            "chest_opened_img": "images/locations/super_nerd_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,super_nerd_miguel"
+            ]
+          },
+          {
+            "name": "1F - Southeast Item"
+          },
+          {
+            "name": "2F - Inspect Back of Statue",
+            "chest_unopened_img": "images/locations/hidden_item.png",
+            "chest_opened_img": "images/locations/hidden_item_bw.png"
+          },
+          {
+            "name": "B1F - Collector Wade Reward",
+            "chest_unopened_img": "images/locations/super_nerd.png",
+            "chest_opened_img": "images/locations/super_nerd_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on,collector_wade"
+            ]
+          },
+          {
+            "name": "B1F - Young Couple Gia & Jes Reward",
+            "chest_unopened_img": "images/locations/young_couple.png",
+            "chest_opened_img": "images/locations/young_couple_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on,young_couple_gia_and_jes"
+            ]
+          },
+          {
+            "name": "B1F - Gambler Hugo Reward",
+            "chest_unopened_img": "images/locations/old_man.png",
+            "chest_opened_img": "images/locations/old_man_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on,gambler_hugo"
+            ]
+          },
+          {
+            "name": "B1F - Item",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B1F - Engineer Baily Reward",
+            "chest_unopened_img": "images/locations/balding_man.png",
+            "chest_opened_img": "images/locations/balding_man_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on,engineer_baily"
+            ]
+          },
+          {
+            "name": "B1F - Pokemon Ranger Madeline Reward",
+            "chest_unopened_img": "images/locations/cooltrainer_female.png",
+            "chest_opened_img": "images/locations/cooltrainer_female_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on,pokemon_ranger_madeline"
+            ]
+          },
+          {
+            "name": "B1F - Teammates Anna & Meg Reward",
+            "chest_unopened_img": "images/locations/teammates.png",
+            "chest_opened_img": "images/locations/teammates_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on,teammates_anna_and_meg"
+            ]
+          },
+          {
+            "name": "B1F - Defeat Geoff Rematch (Event)",
+            "hosted_item": "defeat_geoff_rematch_hosted",
+            "access_rules": [
+              "TODO"
+            ]
+          },
+          {
+            "name": "B1F - Gym Leader Geoff Rematch Reward",
+            "chest_unopened_img": "images/locations/geoff.png",
+            "chest_opened_img": "images/locations/geoff_bw.png",
+            "access_rules": [
+              "TODO"
+            ],
+            "visibility_rules": [
+              "trainersanity_on,gym_leader_geoff_4"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 111,
+            "y": 124,
+            "size": 4
+          },
+          {
+            "map": "seafin_city",
+            "x": 247,
+            "y": 317
+          }
+        ]
+      },
+      {
         "name": "Viridian Forest",
         "access_rules": [
           "@Pewter City Access"
