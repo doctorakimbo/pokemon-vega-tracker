@@ -1335,6 +1335,15 @@
         }
       },
       {
+        "title": "Route 506",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route_506"
+          ]
+        }
+      },
+      {
         "title": "Route 1",
         "content": {
           "type": "map",

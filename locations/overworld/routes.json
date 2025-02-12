@@ -517,6 +517,121 @@
         ]
       },
       {
+        "name": "Route 506",
+        "access_rules": [
+          "TODO"
+        ],
+        "sections": [
+          {
+            "name": "Camper Ricky Reward",
+            "chest_unopened_img": "images/locations/camper.png",
+            "chest_opened_img": "images/locations/camper_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,camper_ricky"
+            ]
+          },
+          {
+            "name": "Picnicker Isabelle Reward",
+            "chest_unopened_img": "images/locations/picnicker.png",
+            "chest_opened_img": "images/locations/picnicker_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,picnicker_isabelle"
+            ]
+          },
+          {
+            "name": "Poke Fan Kaleb Reward",
+            "chest_unopened_img": "images/locations/balding_man.png",
+            "chest_opened_img": "images/locations/balding_man_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,poke_fan_kaleb"
+            ]
+          },
+          {
+            "name": "Poke Fan Donna Reward",
+            "chest_unopened_img": "images/locations/channeler.png",
+            "chest_opened_img": "images/locations/channeler_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,poke_fan_donna"
+            ]
+          },
+          {
+            "name": "Aroma Lady Janice Reward",
+            "chest_unopened_img": "images/locations/woman_2.png",
+            "chest_opened_img": "images/locations/woman_2_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,aroma_lady_janice"
+            ]
+          },
+          {
+            "name": "Hidden Item",
+            "chest_unopened_img": "images/locations/hidden_item.png",
+            "chest_opened_img": "images/locations/hidden_item_bw.png",
+            "access_rules": [
+              "^$hidden"
+            ],
+            "visibility_rules": [
+              "hidden_nonrecurring"
+            ]
+          },
+          {
+            "name": "Skier Tammy Reward",
+            "chest_unopened_img": "images/locations/cooltrainer_female.png",
+            "chest_opened_img": "images/locations/cooltrainer_female_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,skier_tammy"
+            ]
+          },
+          {
+            "name": "Youngster Dan Reward",
+            "chest_unopened_img": "images/locations/youngster.png",
+            "chest_opened_img": "images/locations/youngster_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,youngster_dan"
+            ]
+          },
+          {
+            "name": "Lass Sally Reward",
+            "chest_unopened_img": "images/locations/lass.png",
+            "chest_opened_img": "images/locations/lass_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,lass_sally"
+            ]
+          },
+          {
+            "name": "Pickup Master Gift",
+            "chest_unopened_img": "images/locations/woman_itemfinder.png",
+            "chest_opened_img": "images/locations/woman_itemfinder_bw.png"
+          },
+          {
+            "name": "Camper Shane Reward",
+            "chest_unopened_img": "images/locations/camper.png",
+            "chest_opened_img": "images/locations/camper_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,camper_shane"
+            ]
+          },
+          {
+            "name": "Twins Kiri & Jan Reward",
+            "chest_unopened_img": "images/locations/twins.png",
+            "chest_opened_img": "images/locations/twins_bw.png",
+            "visibility_rules": [
+              "trainersanity_on,twins_kiri_and_jan"
+            ]
+          },
+          {
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "tohoak",
+            "x": 88,
+            "y": 124,
+            "size": 4
+          }
+        ]
+      },
+      {
         "name": "Route 1",
         "access_rules": [
           "@Pallet Town Access"

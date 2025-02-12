@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Route 506",
+    "children": [
+      {
+        "name": "Camper Ricky",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Camper Ricky Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 760,
+            "y": 359
+          }
+        ]
+      },
+      {
+        "name": "Picnicker Isabelle",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Picnicker Isabelle Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 615,
+            "y": 278
+          }
+        ]
+      },
+      {
+        "name": "Poke Fan Kaleb",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Poke Fan Kaleb Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 630,
+            "y": 185
+          }
+        ]
+      },
+      {
+        "name": "Poke Fan Donna",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Poke Fan Donna Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 585,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Aroma Lady Janice",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Aroma Lady Janice Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 550,
+            "y": 103
+          }
+        ]
+      },
+      {
+        "name": "Hidden Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Hidden Item",
+            "name": "Hidden Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 760,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "Skier Tammy",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Skier Tammy Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 440,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Youngster Dan",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Youngster Dan Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 297,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "Lass Sally",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Lass Sally Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 280,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "name": "House",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Pickup Master Gift",
+            "name": "Pickup Master Gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 312,
+            "y": 247
+          }
+        ]
+      },
+      {
+        "name": "Camper Shane",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Camper Shane Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 200,
+            "y": 216
+          }
+        ]
+      },
+      {
+        "name": "Twins Kiri & Jan",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Twins Kiri & Jan Reward",
+            "name": "Reward"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 195,
+            "y": 104
+          }
+        ]
+      },
+      {
+        "name": "Item",
+        "sections": [
+          {
+            "ref": "Routes/Route 506/Item",
+            "name": "Item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "route_506",
+            "x": 217,
+            "y": 104
+          }
+        ]
+      }
+    ]
+  }
+]

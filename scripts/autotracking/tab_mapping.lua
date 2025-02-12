@@ -753,9 +753,6 @@ TAB_MAPPING = {
     [8962] = { -- Four Island Pokémon Center 2F
         [0] = {"Islands", "Four Island", "Town", "Pokémon Center", "2F"}
     },
-    [8963] = { -- Four Island House 1
-        [0] = {"Islands", "Four Island", "Town", "Move Tutor's House"}
-    },
     [8964] = { -- Four Island Lorelei's House
         [0] = {"Islands", "Four Island", "Town", "Lorelei's House"}
     },
@@ -1090,6 +1087,12 @@ TAB_MAPPING = {
     [791] = { -- Route 505
         [0] = {"Routes", "Route 505"}
     },
+    [792] = { -- Route 506
+        [0] = {"Routes", "Route 506"}
+    },
+    [8963] = { -- Route 506 House
+        [0] = {"Routes", "Route 506"}
+    },
     [3840] = { -- Route 2 Viridian Forest South Entrance
         [0] = {"Routes", "Route 2", "South"}
     },
@@ -1111,9 +1114,6 @@ TAB_MAPPING = {
     },
     [4353] = { -- Route 5 South Entrance
         [0] = {"Routes", "Route 5", "Gate"}
-    },
-    [792] = { -- Route 6
-        [0] = {"Routes", "Route 6", "Route"}
     },
     [4608] = { -- Route 6 North Entrance
         [0] = {"Routes", "Route 6", "Gate"}
